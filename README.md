@@ -1,4 +1,8 @@
-# job-classification-agent
+# Job Classification Agent
+
+An OpenAI Assistant that classifies job postings into [O*NET 28.3](https://www.onetonline.org/) occupations.
+
+
 
 ## dependencies
 
@@ -43,3 +47,8 @@ The streamlit app will
 
 command:
 `streamlit run appy.py`
+
+# Links
+- https://www.onetonline.org/
+- https://platform.openai.com/docs/assistants/overview
+
