@@ -1,0 +1,1011 @@
+{"occupation_code":"11-1011.00","occupation_title":"Chief Executives","career_pathway":["General Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-1011.03","occupation_title":"Chief Sustainability Officers","career_pathway":["General Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-1021.00","occupation_title":"General and Operations Managers","career_pathway":["General Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-1031.00","occupation_title":"Legislators","career_pathway":["Governance"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"11-2011.00","occupation_title":"Advertising and Promotions Managers","career_pathway":["Marketing Management"],"career_cluster":["Marketing"]}
+{"occupation_code":"11-2021.00","occupation_title":"Marketing Managers","career_pathway":["Marketing Management"],"career_cluster":["Marketing"]}
+{"occupation_code":"11-2022.00","occupation_title":"Sales Managers","career_pathway":["Marketing Management"],"career_cluster":["Marketing"]}
+{"occupation_code":"11-2032.00","occupation_title":"Public Relations Managers","career_pathway":["Marketing Management"],"career_cluster":["Marketing"]}
+{"occupation_code":"11-2033.00","occupation_title":"Fundraising Managers","career_pathway":["Marketing Management"],"career_cluster":["Marketing"]}
+{"occupation_code":"11-3012.00","occupation_title":"Administrative Services Managers","career_pathway":["Operations Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-3013.00","occupation_title":"Facilities Managers","career_pathway":["Operations Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-3013.01","occupation_title":"Security Managers","career_pathway":["General Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-3021.00","occupation_title":"Computer and Information Systems Managers","career_pathway":["Business Information Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-3031.00","occupation_title":"Financial Managers","career_pathway":["Business Finance"],"career_cluster":["Finance"]}
+{"occupation_code":"11-3031.01","occupation_title":"Treasurers and Controllers","career_pathway":["Business Finance"],"career_cluster":["Finance"]}
+{"occupation_code":"11-3031.03","occupation_title":"Investment Fund Managers","career_pathway":["General Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-3051.00","occupation_title":"Industrial Production Managers","career_pathway":["Operations Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-3051.01","occupation_title":"Quality Control Systems Managers","career_pathway":["Operations Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-3051.02","occupation_title":"Geothermal Production Managers","career_pathway":["Operations Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-3051.03","occupation_title":"Biofuels Production Managers","career_pathway":["Operations Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-3051.04","occupation_title":"Biomass Power Plant Managers","career_pathway":["Operations Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-3051.06","occupation_title":"Hydroelectric Production Managers","career_pathway":["Operations Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-3061.00","occupation_title":"Purchasing Managers","career_pathway":["Operations Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-3071.00","occupation_title":"Transportation, Storage, and Distribution Managers","career_pathway":["Logistics Planning and Management Services"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"11-3071.04","occupation_title":"Supply Chain Managers","career_pathway":["General Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-3111.00","occupation_title":"Compensation and Benefits Managers","career_pathway":["Human Resources Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-3121.00","occupation_title":"Human Resources Managers","career_pathway":["Human Resources Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-3131.00","occupation_title":"Training and Development Managers","career_pathway":["Human Resources Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-9013.00","occupation_title":"Farmers, Ranchers, and Other Agricultural Managers","career_pathway":["Agribusiness Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"11-9021.00","occupation_title":"Construction Managers","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"11-9031.00","occupation_title":"Education and Childcare Administrators, Preschool and Daycare","career_pathway":["Administration and Administrative Support"],"career_cluster":["Education & Training"]}
+{"occupation_code":"11-9032.00","occupation_title":"Education Administrators, Kindergarten through Secondary","career_pathway":["Administration and Administrative Support"],"career_cluster":["Education & Training"]}
+{"occupation_code":"11-9033.00","occupation_title":"Education Administrators, Postsecondary","career_pathway":["Administration and Administrative Support"],"career_cluster":["Education & Training"]}
+{"occupation_code":"11-9039.00","occupation_title":"Education Administrators, All Other","career_pathway":["Administration and Administrative Support"],"career_cluster":["Education & Training"]}
+{"occupation_code":"11-9041.00","occupation_title":"Architectural and Engineering Managers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"11-9041.01","occupation_title":"Biofuels\/Biodiesel Technology and Product Development Managers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"11-9051.00","occupation_title":"Food Service Managers","career_pathway":["Restaurants and Food\/Beverage Services"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"11-9071.00","occupation_title":"Gambling Managers","career_pathway":["Recreation, Amusements & Attractions"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"11-9072.00","occupation_title":"Entertainment and Recreation Managers, Except Gambling","career_pathway":["General Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-9081.00","occupation_title":"Lodging Managers","career_pathway":["Lodging"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"11-9111.00","occupation_title":"Medical and Health Services Managers","career_pathway":["Support Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"11-9121.00","occupation_title":"Natural Sciences Managers","career_pathway":["Natural Resources Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"11-9121.01","occupation_title":"Clinical Research Coordinators","career_pathway":["Natural Resources Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"11-9121.02","occupation_title":"Water Resource Specialists","career_pathway":["Natural Resources Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"11-9131.00","occupation_title":"Postmasters and Mail Superintendents","career_pathway":["Public Management and Administration"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"11-9141.00","occupation_title":"Property, Real Estate, and Community Association Managers","career_pathway":["Marketing Management"],"career_cluster":["Marketing"]}
+{"occupation_code":"11-9151.00","occupation_title":"Social and Community Service Managers","career_pathway":["Family & Community Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"11-9161.00","occupation_title":"Emergency Management Directors","career_pathway":["Public Management and Administration"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"11-9171.00","occupation_title":"Funeral Home Managers","career_pathway":["Personal Care Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"11-9179.00","occupation_title":"Personal Service Managers, All Other","career_pathway":["General Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-9179.01","occupation_title":"Fitness and Wellness Coordinators","career_pathway":["Administration and Administrative Support"],"career_cluster":["Education & Training"]}
+{"occupation_code":"11-9179.02","occupation_title":"Spa Managers","career_pathway":["Personal Care Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"11-9199.00","occupation_title":"Managers, All Other","career_pathway":["General Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-9199.01","occupation_title":"Regulatory Affairs Managers","career_pathway":["General Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-9199.02","occupation_title":"Compliance Managers","career_pathway":["General Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-9199.08","occupation_title":"Loss Prevention Managers","career_pathway":["General Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-9199.09","occupation_title":"Wind Energy Operations Managers","career_pathway":["General Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-9199.10","occupation_title":"Wind Energy Development Managers","career_pathway":["General Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"11-9199.11","occupation_title":"Brownfield Redevelopment Specialists and Site Managers","career_pathway":["General Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"13-1011.00","occupation_title":"Agents and Business Managers of Artists, Performers, and Athletes","career_pathway":["Performing Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"13-1021.00","occupation_title":"Buyers and Purchasing Agents, Farm Products","career_pathway":["Agribusiness Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"13-1022.00","occupation_title":"Wholesale and Retail Buyers, Except Farm Products","career_pathway":["Merchandising"],"career_cluster":["Marketing"]}
+{"occupation_code":"13-1023.00","occupation_title":"Purchasing Agents, Except Wholesale, Retail, and Farm Products","career_pathway":["Manufacturing Production Process Development"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"13-1031.00","occupation_title":"Claims Adjusters, Examiners, and Investigators","career_pathway":["Insurance"],"career_cluster":["Finance"]}
+{"occupation_code":"13-1032.00","occupation_title":"Insurance Appraisers, Auto Damage","career_pathway":["Insurance"],"career_cluster":["Finance"]}
+{"occupation_code":"13-1041.00","occupation_title":"Compliance Officers","career_pathway":["Governance"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"13-1041.01","occupation_title":"Environmental Compliance Inspectors","career_pathway":["Governance"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"13-1041.03","occupation_title":"Equal Opportunity Representatives and Officers","career_pathway":["Governance"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"13-1041.04","occupation_title":"Government Property Inspectors and Investigators","career_pathway":["Governance"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"13-1041.06","occupation_title":"Coroners","career_pathway":["Governance"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"13-1041.07","occupation_title":"Regulatory Affairs Specialists","career_pathway":["Governance"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"13-1041.08","occupation_title":"Customs Brokers","career_pathway":["Operations Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"13-1051.00","occupation_title":"Cost Estimators","career_pathway":["Design\/Pre-Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"13-1071.00","occupation_title":"Human Resources Specialists","career_pathway":["Human Resources Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"13-1074.00","occupation_title":"Farm Labor Contractors","career_pathway":["Agribusiness Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"13-1075.00","occupation_title":"Labor Relations Specialists","career_pathway":["Human Resources Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"13-1081.00","occupation_title":"Logisticians","career_pathway":["Logistics Planning and Management Services"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"13-1081.01","occupation_title":"Logistics Engineers","career_pathway":["Logistics Planning and Management Services"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"13-1081.02","occupation_title":"Logistics Analysts","career_pathway":["Logistics Planning and Management Services"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"13-1082.00","occupation_title":"Project Management Specialists","career_pathway":["General Management","Operations Management","Information Support and Services"],"career_cluster":["Business Management & Administration","Business Management & Administration","Information Technology"]}
+{"occupation_code":"13-1111.00","occupation_title":"Management Analysts","career_pathway":["Operations Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"13-1121.00","occupation_title":"Meeting, Convention, and Event Planners","career_pathway":["Operations Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"13-1131.00","occupation_title":"Fundraisers","career_pathway":["Operations Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"13-1141.00","occupation_title":"Compensation, Benefits, and Job Analysis Specialists","career_pathway":["Human Resources Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"13-1151.00","occupation_title":"Training and Development Specialists","career_pathway":["Human Resources Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"13-1161.00","occupation_title":"Market Research Analysts and Marketing Specialists","career_pathway":["Marketing Research"],"career_cluster":["Marketing"]}
+{"occupation_code":"13-1161.01","occupation_title":"Search Marketing Strategists","career_pathway":["Information Support and Services"],"career_cluster":["Information Technology"]}
+{"occupation_code":"13-1199.00","occupation_title":"Business Operations Specialists, All Other","career_pathway":["Operations Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"13-1199.04","occupation_title":"Business Continuity Planners","career_pathway":["Operations Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"13-1199.05","occupation_title":"Sustainability Specialists","career_pathway":["Operations Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"13-1199.06","occupation_title":"Online Merchants","career_pathway":["Operations Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"13-1199.07","occupation_title":"Security Management Specialists","career_pathway":["Operations Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"13-2011.00","occupation_title":"Accountants and Auditors","career_pathway":["Accounting"],"career_cluster":["Finance"]}
+{"occupation_code":"13-2022.00","occupation_title":"Appraisers of Personal and Business Property","career_pathway":["Revenue and Taxation"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"13-2023.00","occupation_title":"Appraisers and Assessors of Real Estate","career_pathway":["Revenue and Taxation"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"13-2031.00","occupation_title":"Budget Analysts","career_pathway":["Business Finance"],"career_cluster":["Finance"]}
+{"occupation_code":"13-2041.00","occupation_title":"Credit Analysts","career_pathway":["Banking Services"],"career_cluster":["Finance"]}
+{"occupation_code":"13-2051.00","occupation_title":"Financial and Investment Analysts","career_pathway":["Securities & Investments","Business Finance"],"career_cluster":["Finance","Finance"]}
+{"occupation_code":"13-2052.00","occupation_title":"Personal Financial Advisors","career_pathway":["Securities & Investments"],"career_cluster":["Finance"]}
+{"occupation_code":"13-2053.00","occupation_title":"Insurance Underwriters","career_pathway":["Insurance"],"career_cluster":["Finance"]}
+{"occupation_code":"13-2054.00","occupation_title":"Financial Risk Specialists","career_pathway":["Securities & Investments","Business Finance"],"career_cluster":["Finance","Finance"]}
+{"occupation_code":"13-2061.00","occupation_title":"Financial Examiners","career_pathway":["Governance"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"13-2071.00","occupation_title":"Credit Counselors","career_pathway":["Consumer Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"13-2072.00","occupation_title":"Loan Officers","career_pathway":["Banking Services","Consumer Services"],"career_cluster":["Finance","Human Services"]}
+{"occupation_code":"13-2081.00","occupation_title":"Tax Examiners and Collectors, and Revenue Agents","career_pathway":["Revenue and Taxation"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"13-2082.00","occupation_title":"Tax Preparers","career_pathway":["Business Finance"],"career_cluster":["Finance"]}
+{"occupation_code":"13-2099.00","occupation_title":"Financial Specialists, All Other","career_pathway":["Securities & Investments"],"career_cluster":["Finance"]}
+{"occupation_code":"13-2099.01","occupation_title":"Financial Quantitative Analysts","career_pathway":["Securities & Investments"],"career_cluster":["Finance"]}
+{"occupation_code":"13-2099.04","occupation_title":"Fraud Examiners, Investigators and Analysts","career_pathway":["Securities & Investments"],"career_cluster":["Finance"]}
+{"occupation_code":"15-1211.00","occupation_title":"Computer Systems Analysts","career_pathway":["Programming and Software Development"],"career_cluster":["Information Technology"]}
+{"occupation_code":"15-1211.01","occupation_title":"Health Informatics Specialists","career_pathway":["Programming and Software Development"],"career_cluster":["Information Technology"]}
+{"occupation_code":"15-1212.00","occupation_title":"Information Security Analysts","career_pathway":["Network Systems"],"career_cluster":["Information Technology"]}
+{"occupation_code":"15-1221.00","occupation_title":"Computer and Information Research Scientists","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"15-1231.00","occupation_title":"Computer Network Support Specialists","career_pathway":["Network Systems"],"career_cluster":["Information Technology"]}
+{"occupation_code":"15-1232.00","occupation_title":"Computer User Support Specialists","career_pathway":["Information Support and Services"],"career_cluster":["Information Technology"]}
+{"occupation_code":"15-1241.00","occupation_title":"Computer Network Architects","career_pathway":["Network Systems"],"career_cluster":["Information Technology"]}
+{"occupation_code":"15-1241.01","occupation_title":"Telecommunications Engineering Specialists","career_pathway":["Network Systems"],"career_cluster":["Information Technology"]}
+{"occupation_code":"15-1242.00","occupation_title":"Database Administrators","career_pathway":["Network Systems"],"career_cluster":["Information Technology"]}
+{"occupation_code":"15-1243.00","occupation_title":"Database Architects","career_pathway":["Network Systems","Information Support and Services"],"career_cluster":["Information Technology","Information Technology"]}
+{"occupation_code":"15-1243.01","occupation_title":"Data Warehousing Specialists","career_pathway":["Information Support and Services"],"career_cluster":["Information Technology"]}
+{"occupation_code":"15-1244.00","occupation_title":"Network and Computer Systems Administrators","career_pathway":["Network Systems"],"career_cluster":["Information Technology"]}
+{"occupation_code":"15-1251.00","occupation_title":"Computer Programmers","career_pathway":["Programming and Software Development"],"career_cluster":["Information Technology"]}
+{"occupation_code":"15-1252.00","occupation_title":"Software Developers","career_pathway":["Programming and Software Development"],"career_cluster":["Information Technology"]}
+{"occupation_code":"15-1253.00","occupation_title":"Software Quality Assurance Analysts and Testers","career_pathway":["Information Support and Services","Programming and Software Development"],"career_cluster":["Information Technology","Information Technology"]}
+{"occupation_code":"15-1254.00","occupation_title":"Web Developers","career_pathway":["Web and Digital Communications"],"career_cluster":["Information Technology"]}
+{"occupation_code":"15-1255.00","occupation_title":"Web and Digital Interface Designers","career_pathway":["Information Support and Services","Web and Digital Communications"],"career_cluster":["Information Technology","Information Technology"]}
+{"occupation_code":"15-1255.01","occupation_title":"Video Game Designers","career_pathway":["Information Support and Services"],"career_cluster":["Information Technology"]}
+{"occupation_code":"15-1299.00","occupation_title":"Computer Occupations, All Other","career_pathway":["Administrative Support","Information Support and Services"],"career_cluster":["Business Management & Administration","Information Technology"]}
+{"occupation_code":"15-1299.01","occupation_title":"Web Administrators","career_pathway":["Information Support and Services"],"career_cluster":["Information Technology"]}
+{"occupation_code":"15-1299.02","occupation_title":"Geographic Information Systems Technologists and Technicians","career_pathway":["Information Support and Services"],"career_cluster":["Information Technology"]}
+{"occupation_code":"15-1299.03","occupation_title":"Document Management Specialists","career_pathway":["Information Support and Services"],"career_cluster":["Information Technology"]}
+{"occupation_code":"15-1299.08","occupation_title":"Computer Systems Engineers\/Architects","career_pathway":["Information Support and Services"],"career_cluster":["Information Technology"]}
+{"occupation_code":"15-1299.09","occupation_title":"Information Technology Project Managers","career_pathway":["Information Support and Services"],"career_cluster":["Information Technology"]}
+{"occupation_code":"15-2011.00","occupation_title":"Actuaries","career_pathway":["Insurance"],"career_cluster":["Finance"]}
+{"occupation_code":"15-2021.00","occupation_title":"Mathematicians","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"15-2031.00","occupation_title":"Operations Research Analysts","career_pathway":["Operations Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"15-2041.00","occupation_title":"Statisticians","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"15-2041.01","occupation_title":"Biostatisticians","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"15-2051.00","occupation_title":"Data Scientists","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"15-2051.01","occupation_title":"Business Intelligence Analysts","career_pathway":["Information Support and Services"],"career_cluster":["Information Technology"]}
+{"occupation_code":"15-2051.02","occupation_title":"Clinical Data Managers","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"15-2099.00","occupation_title":"Mathematical Science Occupations, All Other","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"15-2099.01","occupation_title":"Bioinformatics Technicians","career_pathway":["Planning"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"17-1011.00","occupation_title":"Architects, Except Landscape and Naval","career_pathway":["Design\/Pre-Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"17-1012.00","occupation_title":"Landscape Architects","career_pathway":["Design\/Pre-Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"17-1021.00","occupation_title":"Cartographers and Photogrammetrists","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-1022.00","occupation_title":"Surveyors","career_pathway":["Design\/Pre-Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"17-1022.01","occupation_title":"Geodetic Surveyors","career_pathway":["Design\/Pre-Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"17-2011.00","occupation_title":"Aerospace Engineers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2021.00","occupation_title":"Agricultural Engineers","career_pathway":["Power, Structural & Technical Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"17-2031.00","occupation_title":"Bioengineers and Biomedical Engineers","career_pathway":["Biotechnology Research and Development","Engineering and Technology"],"career_cluster":["Health Science","Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2041.00","occupation_title":"Chemical Engineers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2051.00","occupation_title":"Civil Engineers","career_pathway":["Design\/Pre-Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"17-2051.01","occupation_title":"Transportation Engineers","career_pathway":["Design\/Pre-Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"17-2051.02","occupation_title":"Water\/Wastewater Engineers","career_pathway":["Environmental Service Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"17-2061.00","occupation_title":"Computer Hardware Engineers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2071.00","occupation_title":"Electrical Engineers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2072.00","occupation_title":"Electronics Engineers, Except Computer","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2072.01","occupation_title":"Radio Frequency Identification Device Specialists","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2081.00","occupation_title":"Environmental Engineers","career_pathway":["Environmental Service Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"17-2111.00","occupation_title":"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2111.02","occupation_title":"Fire-Prevention and Protection Engineers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2112.00","occupation_title":"Industrial Engineers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2112.01","occupation_title":"Human Factors Engineers and Ergonomists","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2112.02","occupation_title":"Validation Engineers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2112.03","occupation_title":"Manufacturing Engineers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2121.00","occupation_title":"Marine Engineers and Naval Architects","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2131.00","occupation_title":"Materials Engineers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2141.00","occupation_title":"Mechanical Engineers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2141.01","occupation_title":"Fuel Cell Engineers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2141.02","occupation_title":"Automotive Engineers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2151.00","occupation_title":"Mining and Geological Engineers, Including Mining Safety Engineers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2161.00","occupation_title":"Nuclear Engineers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2171.00","occupation_title":"Petroleum Engineers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2199.00","occupation_title":"Engineers, All Other","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2199.03","occupation_title":"Energy Engineers, Except Wind and Solar","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2199.05","occupation_title":"Mechatronics Engineers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2199.06","occupation_title":"Microsystems Engineers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2199.07","occupation_title":"Photonics Engineers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2199.08","occupation_title":"Robotics Engineers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2199.09","occupation_title":"Nanosystems Engineers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2199.10","occupation_title":"Wind Energy Engineers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-2199.11","occupation_title":"Solar Energy Systems Engineers","career_pathway":["Engineering and Technology"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"17-3011.00","occupation_title":"Architectural and Civil Drafters","career_pathway":["Design\/Pre-Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"17-3012.00","occupation_title":"Electrical and Electronics Drafters","career_pathway":["Manufacturing Production Process Development"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"17-3013.00","occupation_title":"Mechanical Drafters","career_pathway":["Manufacturing Production Process Development"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"17-3019.00","occupation_title":"Drafters, All Other","career_pathway":["Manufacturing Production Process Development"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"17-3021.00","occupation_title":"Aerospace Engineering and Operations Technologists and Technicians","career_pathway":["Manufacturing Production Process Development"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"17-3022.00","occupation_title":"Civil Engineering Technologists and Technicians","career_pathway":["Design\/Pre-Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"17-3023.00","occupation_title":"Electrical and Electronic Engineering Technologists and Technicians","career_pathway":["Manufacturing Production Process Development"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"17-3024.00","occupation_title":"Electro-Mechanical and Mechatronics Technologists and Technicians","career_pathway":["Manufacturing Production Process Development"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"17-3024.01","occupation_title":"Robotics Technicians","career_pathway":["Manufacturing Production Process Development"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"17-3025.00","occupation_title":"Environmental Engineering Technologists and Technicians","career_pathway":["Environmental Service Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"17-3026.00","occupation_title":"Industrial Engineering Technologists and Technicians","career_pathway":["Manufacturing Production Process Development"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"17-3026.01","occupation_title":"Nanotechnology Engineering Technologists and Technicians","career_pathway":["Manufacturing Production Process Development"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"17-3027.00","occupation_title":"Mechanical Engineering Technologists and Technicians","career_pathway":["Manufacturing Production Process Development"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"17-3027.01","occupation_title":"Automotive Engineering Technicians","career_pathway":["Manufacturing Production Process Development"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"17-3028.00","occupation_title":"Calibration Technologists and Technicians","career_pathway":["Manufacturing Production Process Development"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"17-3029.00","occupation_title":"Engineering Technologists and Technicians, Except Drafters, All Other","career_pathway":["National Security","Manufacturing Production Process Development"],"career_cluster":["Government & Public Administration","Manufacturing"]}
+{"occupation_code":"17-3029.01","occupation_title":"Non-Destructive Testing Specialists","career_pathway":["Manufacturing Production Process Development"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"17-3029.08","occupation_title":"Photonics Technicians","career_pathway":["Manufacturing Production Process Development"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"17-3031.00","occupation_title":"Surveying and Mapping Technicians","career_pathway":["Design\/Pre-Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"19-1011.00","occupation_title":"Animal Scientists","career_pathway":["Animal Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"19-1012.00","occupation_title":"Food Scientists and Technologists","career_pathway":["Food Products and Processing Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"19-1013.00","occupation_title":"Soil and Plant Scientists","career_pathway":["Plant Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"19-1021.00","occupation_title":"Biochemists and Biophysicists","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-1022.00","occupation_title":"Microbiologists","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-1023.00","occupation_title":"Zoologists and Wildlife Biologists","career_pathway":["Natural Resources Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"19-1029.00","occupation_title":"Biological Scientists, All Other","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-1029.01","occupation_title":"Bioinformatics Scientists","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-1029.02","occupation_title":"Molecular and Cellular Biologists","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-1029.03","occupation_title":"Geneticists","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-1031.00","occupation_title":"Conservation Scientists","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-1031.02","occupation_title":"Range Managers","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-1031.03","occupation_title":"Park Naturalists","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-1032.00","occupation_title":"Foresters","career_pathway":["Natural Resources Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"19-1041.00","occupation_title":"Epidemiologists","career_pathway":["Diagnostic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"19-1042.00","occupation_title":"Medical Scientists, Except Epidemiologists","career_pathway":["Biotechnology Research and Development"],"career_cluster":["Health Science"]}
+{"occupation_code":"19-1099.00","occupation_title":"Life Scientists, All Other","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-2011.00","occupation_title":"Astronomers","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-2012.00","occupation_title":"Physicists","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-2021.00","occupation_title":"Atmospheric and Space Scientists","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-2031.00","occupation_title":"Chemists","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-2032.00","occupation_title":"Materials Scientists","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-2041.00","occupation_title":"Environmental Scientists and Specialists, Including Health","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-2041.01","occupation_title":"Climate Change Policy Analysts","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-2041.02","occupation_title":"Environmental Restoration Planners","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-2041.03","occupation_title":"Industrial Ecologists","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-2042.00","occupation_title":"Geoscientists, Except Hydrologists and Geographers","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-2043.00","occupation_title":"Hydrologists","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-2099.00","occupation_title":"Physical Scientists, All Other","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-2099.01","occupation_title":"Remote Sensing Scientists and Technologists","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-3011.00","occupation_title":"Economists","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-3011.01","occupation_title":"Environmental Economists","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-3022.00","occupation_title":"Survey Researchers","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-3032.00","occupation_title":"Industrial-Organizational Psychologists","career_pathway":["Counseling & Mental Health Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"19-3033.00","occupation_title":"Clinical and Counseling Psychologists","career_pathway":["Counseling & Mental Health Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"19-3034.00","occupation_title":"School Psychologists","career_pathway":["Counseling & Mental Health Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"19-3039.00","occupation_title":"Psychologists, All Other","career_pathway":["Counseling & Mental Health Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"19-3039.02","occupation_title":"Neuropsychologists","career_pathway":["Counseling & Mental Health Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"19-3039.03","occupation_title":"Clinical Neuropsychologists","career_pathway":["Counseling & Mental Health Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"19-3041.00","occupation_title":"Sociologists","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-3051.00","occupation_title":"Urban and Regional Planners","career_pathway":["Planning","Science and Mathematics"],"career_cluster":["Government & Public Administration","Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-3091.00","occupation_title":"Anthropologists and Archeologists","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-3092.00","occupation_title":"Geographers","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-3093.00","occupation_title":"Historians","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-3094.00","occupation_title":"Political Scientists","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-3099.00","occupation_title":"Social Scientists and Related Workers, All Other","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-3099.01","occupation_title":"Transportation Planners","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-4012.00","occupation_title":"Agricultural Technicians","career_pathway":["Food Products and Processing Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"19-4012.01","occupation_title":"Precision Agriculture Technicians","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-4013.00","occupation_title":"Food Science Technicians","career_pathway":["Food Products and Processing Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"19-4021.00","occupation_title":"Biological Technicians","career_pathway":["Plant Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"19-4031.00","occupation_title":"Chemical Technicians","career_pathway":["Manufacturing Production Process Development"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"19-4042.00","occupation_title":"Environmental Science and Protection Technicians, Including Health","career_pathway":["Environmental Service Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"19-4043.00","occupation_title":"Geological Technicians, Except Hydrologic Technicians","career_pathway":["Natural Resources Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"19-4044.00","occupation_title":"Hydrologic Technicians","career_pathway":["Natural Resources Systems","Science and Mathematics"],"career_cluster":["Agriculture, Food & Natural Resources","Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-4051.00","occupation_title":"Nuclear Technicians","career_pathway":["Manufacturing Production Process Development"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"19-4051.02","occupation_title":"Nuclear Monitoring Technicians","career_pathway":["Manufacturing Production Process Development"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"19-4061.00","occupation_title":"Social Science Research Assistants","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-4071.00","occupation_title":"Forest and Conservation Technicians","career_pathway":["Natural Resources Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"19-4092.00","occupation_title":"Forensic Science Technicians","career_pathway":["Law Enforcement Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"19-4099.00","occupation_title":"Life, Physical, and Social Science Technicians, All Other","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-4099.01","occupation_title":"Quality Control Analysts","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-4099.03","occupation_title":"Remote Sensing Technicians","career_pathway":["Science and Mathematics"],"career_cluster":["Science, Technology, Engineering & Mathematics"]}
+{"occupation_code":"19-5011.00","occupation_title":"Occupational Health and Safety Specialists","career_pathway":["Regulation"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"19-5012.00","occupation_title":"Occupational Health and Safety Technicians","career_pathway":["Regulation"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"21-1011.00","occupation_title":"Substance Abuse and Behavioral Disorder Counselors","career_pathway":["Counseling & Mental Health Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"21-1012.00","occupation_title":"Educational, Guidance, and Career Counselors and Advisors","career_pathway":["Professional Support Services"],"career_cluster":["Education & Training"]}
+{"occupation_code":"21-1013.00","occupation_title":"Marriage and Family Therapists","career_pathway":["Counseling & Mental Health Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"21-1014.00","occupation_title":"Mental Health Counselors","career_pathway":["Counseling & Mental Health Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"21-1015.00","occupation_title":"Rehabilitation Counselors","career_pathway":["Counseling & Mental Health Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"21-1019.00","occupation_title":"Counselors, All Other","career_pathway":["Counseling & Mental Health Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"21-1021.00","occupation_title":"Child, Family, and School Social Workers","career_pathway":["Family & Community Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"21-1022.00","occupation_title":"Healthcare Social Workers","career_pathway":["Family & Community Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"21-1023.00","occupation_title":"Mental Health and Substance Abuse Social Workers","career_pathway":["Counseling & Mental Health Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"21-1029.00","occupation_title":"Social Workers, All Other","career_pathway":["Family & Community Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"21-1091.00","occupation_title":"Health Education Specialists","career_pathway":["Family & Community Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"21-1092.00","occupation_title":"Probation Officers and Correctional Treatment Specialists","career_pathway":["Correction Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"21-1093.00","occupation_title":"Social and Human Service Assistants","career_pathway":["Family & Community Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"21-1094.00","occupation_title":"Community Health Workers","career_pathway":["Family & Community Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"21-1099.00","occupation_title":"Community and Social Service Specialists, All Other","career_pathway":["Family & Community Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"21-2011.00","occupation_title":"Clergy","career_pathway":["Family & Community Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"21-2021.00","occupation_title":"Directors, Religious Activities and Education","career_pathway":["Family & Community Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"21-2099.00","occupation_title":"Religious Workers, All Other","career_pathway":["Family & Community Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"23-1011.00","occupation_title":"Lawyers","career_pathway":["Legal Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"23-1012.00","occupation_title":"Judicial Law Clerks","career_pathway":["Legal Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"23-1021.00","occupation_title":"Administrative Law Judges, Adjudicators, and Hearing Officers","career_pathway":["Legal Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"23-1022.00","occupation_title":"Arbitrators, Mediators, and Conciliators","career_pathway":["Legal Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"23-1023.00","occupation_title":"Judges, Magistrate Judges, and Magistrates","career_pathway":["Legal Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"23-2011.00","occupation_title":"Paralegals and Legal Assistants","career_pathway":["Legal Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"23-2093.00","occupation_title":"Title Examiners, Abstractors, and Searchers","career_pathway":["Legal Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"23-2099.00","occupation_title":"Legal Support Workers, All Other","career_pathway":["Legal Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"25-1011.00","occupation_title":"Business Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1021.00","occupation_title":"Computer Science Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1022.00","occupation_title":"Mathematical Science Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1031.00","occupation_title":"Architecture Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1032.00","occupation_title":"Engineering Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1041.00","occupation_title":"Agricultural Sciences Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1042.00","occupation_title":"Biological Science Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1043.00","occupation_title":"Forestry and Conservation Science Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1051.00","occupation_title":"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1052.00","occupation_title":"Chemistry Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1053.00","occupation_title":"Environmental Science Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1054.00","occupation_title":"Physics Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1061.00","occupation_title":"Anthropology and Archeology Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1062.00","occupation_title":"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1063.00","occupation_title":"Economics Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1064.00","occupation_title":"Geography Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1065.00","occupation_title":"Political Science Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1066.00","occupation_title":"Psychology Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1067.00","occupation_title":"Sociology Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1069.00","occupation_title":"Social Sciences Teachers, Postsecondary, All Other","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1071.00","occupation_title":"Health Specialties Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1072.00","occupation_title":"Nursing Instructors and Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1081.00","occupation_title":"Education Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1082.00","occupation_title":"Library Science Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1111.00","occupation_title":"Criminal Justice and Law Enforcement Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1112.00","occupation_title":"Law Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1113.00","occupation_title":"Social Work Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1121.00","occupation_title":"Art, Drama, and Music Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1122.00","occupation_title":"Communications Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1123.00","occupation_title":"English Language and Literature Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1124.00","occupation_title":"Foreign Language and Literature Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1125.00","occupation_title":"History Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1126.00","occupation_title":"Philosophy and Religion Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1192.00","occupation_title":"Family and Consumer Sciences Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1193.00","occupation_title":"Recreation and Fitness Studies Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1194.00","occupation_title":"Career\/Technical Education Teachers, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-1199.00","occupation_title":"Postsecondary Teachers, All Other","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-2011.00","occupation_title":"Preschool Teachers, Except Special Education","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-2012.00","occupation_title":"Kindergarten Teachers, Except Special Education","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-2021.00","occupation_title":"Elementary School Teachers, Except Special Education","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-2022.00","occupation_title":"Middle School Teachers, Except Special and Career\/Technical Education","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-2023.00","occupation_title":"Career\/Technical Education Teachers, Middle School","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-2031.00","occupation_title":"Secondary School Teachers, Except Special and Career\/Technical Education","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-2032.00","occupation_title":"Career\/Technical Education Teachers, Secondary School","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-2051.00","occupation_title":"Special Education Teachers, Preschool","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-2055.00","occupation_title":"Special Education Teachers, Kindergarten","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-2056.00","occupation_title":"Special Education Teachers, Elementary School","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-2057.00","occupation_title":"Special Education Teachers, Middle School","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-2058.00","occupation_title":"Special Education Teachers, Secondary School","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-2059.00","occupation_title":"Special Education Teachers, All Other","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-2059.01","occupation_title":"Adapted Physical Education Specialists","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-3011.00","occupation_title":"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-3021.00","occupation_title":"Self-Enrichment Teachers","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-3031.00","occupation_title":"Substitute Teachers, Short-Term","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-3041.00","occupation_title":"Tutors","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-3099.00","occupation_title":"Teachers and Instructors, All Other","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-4011.00","occupation_title":"Archivists","career_pathway":["Professional Support Services"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-4012.00","occupation_title":"Curators","career_pathway":["Professional Support Services"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-4013.00","occupation_title":"Museum Technicians and Conservators","career_pathway":["Professional Support Services"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-4022.00","occupation_title":"Librarians and Media Collections Specialists","career_pathway":["Professional Support Services"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-4031.00","occupation_title":"Library Technicians","career_pathway":["Professional Support Services"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-9021.00","occupation_title":"Farm and Home Management Educators","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-9031.00","occupation_title":"Instructional Coordinators","career_pathway":["Professional Support Services"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-9042.00","occupation_title":"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-9043.00","occupation_title":"Teaching Assistants, Special Education","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-9044.00","occupation_title":"Teaching Assistants, Postsecondary","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-9049.00","occupation_title":"Teaching Assistants, All Other","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"25-9099.00","occupation_title":"Educational Instruction and Library Workers, All Other","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"27-1011.00","occupation_title":"Art Directors","career_pathway":["Visual Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-1012.00","occupation_title":"Craft Artists","career_pathway":["Visual Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-1013.00","occupation_title":"Fine Artists, Including Painters, Sculptors, and Illustrators","career_pathway":["Visual Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-1014.00","occupation_title":"Special Effects Artists and Animators","career_pathway":["Visual Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-1019.00","occupation_title":"Artists and Related Workers, All Other","career_pathway":["Visual Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-1021.00","occupation_title":"Commercial and Industrial Designers","career_pathway":["Visual Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-1022.00","occupation_title":"Fashion Designers","career_pathway":["Visual Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-1023.00","occupation_title":"Floral Designers","career_pathway":["Visual Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-1024.00","occupation_title":"Graphic Designers","career_pathway":["Visual Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-1025.00","occupation_title":"Interior Designers","career_pathway":["Design\/Pre-Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"27-1026.00","occupation_title":"Merchandise Displayers and Window Trimmers","career_pathway":["Merchandising"],"career_cluster":["Marketing"]}
+{"occupation_code":"27-1027.00","occupation_title":"Set and Exhibit Designers","career_pathway":["Visual Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-1029.00","occupation_title":"Designers, All Other","career_pathway":["Visual Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-2011.00","occupation_title":"Actors","career_pathway":["Performing Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-2012.00","occupation_title":"Producers and Directors","career_pathway":["Performing Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-2012.03","occupation_title":"Media Programming Directors","career_pathway":["Performing Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-2012.04","occupation_title":"Talent Directors","career_pathway":["Performing Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-2012.05","occupation_title":"Media Technical Directors\/Managers","career_pathway":["Performing Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-2021.00","occupation_title":"Athletes and Sports Competitors","career_pathway":["Recreation, Amusements & Attractions"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"27-2022.00","occupation_title":"Coaches and Scouts","career_pathway":["Teaching\/Training"],"career_cluster":["Education & Training"]}
+{"occupation_code":"27-2023.00","occupation_title":"Umpires, Referees, and Other Sports Officials","career_pathway":["Recreation, Amusements & Attractions"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"27-2031.00","occupation_title":"Dancers","career_pathway":["Performing Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-2032.00","occupation_title":"Choreographers","career_pathway":["Performing Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-2041.00","occupation_title":"Music Directors and Composers","career_pathway":["Performing Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-2042.00","occupation_title":"Musicians and Singers","career_pathway":["Performing Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-2091.00","occupation_title":"Disc Jockeys, Except Radio","career_pathway":["Performing Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-2099.00","occupation_title":"Entertainers and Performers, Sports and Related Workers, All Other","career_pathway":["Performing Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-3011.00","occupation_title":"Broadcast Announcers and Radio Disc Jockeys","career_pathway":["Journalism and Broadcasting"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-3023.00","occupation_title":"News Analysts, Reporters, and Journalists","career_pathway":["Journalism and Broadcasting"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-3031.00","occupation_title":"Public Relations Specialists","career_pathway":["Marketing Communications"],"career_cluster":["Marketing"]}
+{"occupation_code":"27-3041.00","occupation_title":"Editors","career_pathway":["Journalism and Broadcasting"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-3042.00","occupation_title":"Technical Writers","career_pathway":["Journalism and Broadcasting"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-3043.00","occupation_title":"Writers and Authors","career_pathway":["Journalism and Broadcasting"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-3043.05","occupation_title":"Poets, Lyricists and Creative Writers","career_pathway":["Journalism and Broadcasting"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-3091.00","occupation_title":"Interpreters and Translators","career_pathway":["Professional Support Services"],"career_cluster":["Education & Training"]}
+{"occupation_code":"27-3092.00","occupation_title":"Court Reporters and Simultaneous Captioners","career_pathway":["Legal Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"27-3099.00","occupation_title":"Media and Communication Workers, All Other","career_pathway":["Performing Arts","Journalism and Broadcasting"],"career_cluster":["Arts, Audio\/Video Technology & Communications","Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-4011.00","occupation_title":"Audio and Video Technicians","career_pathway":["Journalism and Broadcasting"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-4012.00","occupation_title":"Broadcast Technicians","career_pathway":["Journalism and Broadcasting"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-4014.00","occupation_title":"Sound Engineering Technicians","career_pathway":["Journalism and Broadcasting"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-4015.00","occupation_title":"Lighting Technicians","career_pathway":["Journalism and Broadcasting"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-4021.00","occupation_title":"Photographers","career_pathway":["Journalism and Broadcasting"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-4031.00","occupation_title":"Camera Operators, Television, Video, and Film","career_pathway":["Journalism and Broadcasting"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-4032.00","occupation_title":"Film and Video Editors","career_pathway":["Journalism and Broadcasting"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"27-4099.00","occupation_title":"Media and Communication Equipment Workers, All Other","career_pathway":["Journalism and Broadcasting"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"29-1011.00","occupation_title":"Chiropractors","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1021.00","occupation_title":"Dentists, General","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1022.00","occupation_title":"Oral and Maxillofacial Surgeons","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1023.00","occupation_title":"Orthodontists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1024.00","occupation_title":"Prosthodontists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1029.00","occupation_title":"Dentists, All Other Specialists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1031.00","occupation_title":"Dietitians and Nutritionists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1041.00","occupation_title":"Optometrists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1051.00","occupation_title":"Pharmacists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1071.00","occupation_title":"Physician Assistants","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1071.01","occupation_title":"Anesthesiologist Assistants","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1081.00","occupation_title":"Podiatrists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1122.00","occupation_title":"Occupational Therapists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1122.01","occupation_title":"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1123.00","occupation_title":"Physical Therapists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1124.00","occupation_title":"Radiation Therapists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1125.00","occupation_title":"Recreational Therapists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1126.00","occupation_title":"Respiratory Therapists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1127.00","occupation_title":"Speech-Language Pathologists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1128.00","occupation_title":"Exercise Physiologists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1129.00","occupation_title":"Therapists, All Other","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1129.01","occupation_title":"Art Therapists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1129.02","occupation_title":"Music Therapists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1131.00","occupation_title":"Veterinarians","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1141.00","occupation_title":"Registered Nurses","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1141.01","occupation_title":"Acute Care Nurses","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1141.02","occupation_title":"Advanced Practice Psychiatric Nurses","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1141.03","occupation_title":"Critical Care Nurses","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1141.04","occupation_title":"Clinical Nurse Specialists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1151.00","occupation_title":"Nurse Anesthetists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1161.00","occupation_title":"Nurse Midwives","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1171.00","occupation_title":"Nurse Practitioners","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1181.00","occupation_title":"Audiologists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1211.00","occupation_title":"Anesthesiologists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1212.00","occupation_title":"Cardiologists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1213.00","occupation_title":"Dermatologists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1214.00","occupation_title":"Emergency Medicine Physicians","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1215.00","occupation_title":"Family Medicine Physicians","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1216.00","occupation_title":"General Internal Medicine Physicians","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1217.00","occupation_title":"Neurologists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1218.00","occupation_title":"Obstetricians and Gynecologists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1221.00","occupation_title":"Pediatricians, General","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1222.00","occupation_title":"Physicians, Pathologists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1223.00","occupation_title":"Psychiatrists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1224.00","occupation_title":"Radiologists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1229.00","occupation_title":"Physicians, All Other","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1229.01","occupation_title":"Allergists and Immunologists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1229.02","occupation_title":"Hospitalists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1229.03","occupation_title":"Urologists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1229.04","occupation_title":"Physical Medicine and Rehabilitation Physicians","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1229.05","occupation_title":"Preventive Medicine Physicians","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1229.06","occupation_title":"Sports Medicine Physicians","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1241.00","occupation_title":"Ophthalmologists, Except Pediatric","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1242.00","occupation_title":"Orthopedic Surgeons, Except Pediatric","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1243.00","occupation_title":"Pediatric Surgeons","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1249.00","occupation_title":"Surgeons, All Other","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1291.00","occupation_title":"Acupuncturists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1292.00","occupation_title":"Dental Hygienists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1299.00","occupation_title":"Healthcare Diagnosing or Treating Practitioners, All Other","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1299.01","occupation_title":"Naturopathic Physicians","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-1299.02","occupation_title":"Orthoptists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2011.00","occupation_title":"Medical and Clinical Laboratory Technologists","career_pathway":["Diagnostic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2011.01","occupation_title":"Cytogenetic Technologists","career_pathway":["Diagnostic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2011.02","occupation_title":"Cytotechnologists","career_pathway":["Diagnostic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2011.04","occupation_title":"Histotechnologists","career_pathway":["Diagnostic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2012.00","occupation_title":"Medical and Clinical Laboratory Technicians","career_pathway":["Diagnostic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2012.01","occupation_title":"Histology Technicians","career_pathway":["Diagnostic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2031.00","occupation_title":"Cardiovascular Technologists and Technicians","career_pathway":["Diagnostic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2032.00","occupation_title":"Diagnostic Medical Sonographers","career_pathway":["Diagnostic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2033.00","occupation_title":"Nuclear Medicine Technologists","career_pathway":["Diagnostic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2034.00","occupation_title":"Radiologic Technologists and Technicians","career_pathway":["Diagnostic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2035.00","occupation_title":"Magnetic Resonance Imaging Technologists","career_pathway":["Diagnostic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2036.00","occupation_title":"Medical Dosimetrists","career_pathway":["Diagnostic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2042.00","occupation_title":"Emergency Medical Technicians","career_pathway":["Emergency and Fire Management Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"29-2043.00","occupation_title":"Paramedics","career_pathway":["Emergency and Fire Management Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"29-2051.00","occupation_title":"Dietetic Technicians","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2052.00","occupation_title":"Pharmacy Technicians","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2053.00","occupation_title":"Psychiatric Technicians","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2055.00","occupation_title":"Surgical Technologists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2056.00","occupation_title":"Veterinary Technologists and Technicians","career_pathway":["Diagnostic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2057.00","occupation_title":"Ophthalmic Medical Technicians","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2061.00","occupation_title":"Licensed Practical and Licensed Vocational Nurses","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2072.00","occupation_title":"Medical Records Specialists","career_pathway":["Health Informatics"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2081.00","occupation_title":"Opticians, Dispensing","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2091.00","occupation_title":"Orthotists and Prosthetists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2092.00","occupation_title":"Hearing Aid Specialists","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2099.00","occupation_title":"Health Technologists and Technicians, All Other","career_pathway":["Therapeutic Services","Diagnostic Services"],"career_cluster":["Health Science","Health Science"]}
+{"occupation_code":"29-2099.01","occupation_title":"Neurodiagnostic Technologists","career_pathway":["Diagnostic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2099.05","occupation_title":"Ophthalmic Medical Technologists","career_pathway":["Diagnostic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-2099.08","occupation_title":"Patient Representatives","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"29-9021.00","occupation_title":"Health Information Technologists and Medical Registrars","career_pathway":["Therapeutic Services","Health Informatics"],"career_cluster":["Health Science","Health Science"]}
+{"occupation_code":"29-9091.00","occupation_title":"Athletic Trainers","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-9092.00","occupation_title":"Genetic Counselors","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-9093.00","occupation_title":"Surgical Assistants","career_pathway":["Therapeutic Services","Diagnostic Services"],"career_cluster":["Health Science","Health Science"]}
+{"occupation_code":"29-9099.00","occupation_title":"Healthcare Practitioners and Technical Workers, All Other","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"29-9099.01","occupation_title":"Midwives","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"31-1121.00","occupation_title":"Home Health Aides","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"31-1122.00","occupation_title":"Personal Care Aides","career_pathway":["Personal Care Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"31-1131.00","occupation_title":"Nursing Assistants","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"31-1132.00","occupation_title":"Orderlies","career_pathway":["Support Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"31-1133.00","occupation_title":"Psychiatric Aides","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"31-2011.00","occupation_title":"Occupational Therapy Assistants","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"31-2012.00","occupation_title":"Occupational Therapy Aides","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"31-2021.00","occupation_title":"Physical Therapist Assistants","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"31-2022.00","occupation_title":"Physical Therapist Aides","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"31-9011.00","occupation_title":"Massage Therapists","career_pathway":["Personal Care Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"31-9091.00","occupation_title":"Dental Assistants","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"31-9092.00","occupation_title":"Medical Assistants","career_pathway":["Therapeutic Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"31-9093.00","occupation_title":"Medical Equipment Preparers","career_pathway":["Support Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"31-9094.00","occupation_title":"Medical Transcriptionists","career_pathway":["Health Informatics"],"career_cluster":["Health Science"]}
+{"occupation_code":"31-9095.00","occupation_title":"Pharmacy Aides","career_pathway":["Support Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"31-9096.00","occupation_title":"Veterinary Assistants and Laboratory Animal Caretakers","career_pathway":["Support Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"31-9097.00","occupation_title":"Phlebotomists","career_pathway":["Support Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"31-9099.00","occupation_title":"Healthcare Support Workers, All Other","career_pathway":["Support Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"31-9099.01","occupation_title":"Speech-Language Pathology Assistants","career_pathway":["Support Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"31-9099.02","occupation_title":"Endoscopy Technicians","career_pathway":["Support Services"],"career_cluster":["Health Science"]}
+{"occupation_code":"33-1011.00","occupation_title":"First-Line Supervisors of Correctional Officers","career_pathway":["Correction Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-1012.00","occupation_title":"First-Line Supervisors of Police and Detectives","career_pathway":["Law Enforcement Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-1021.00","occupation_title":"First-Line Supervisors of Firefighting and Prevention Workers","career_pathway":["Emergency and Fire Management Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-1091.00","occupation_title":"First-Line Supervisors of Security Workers","career_pathway":["Security & Protective Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-1099.00","occupation_title":"First-Line Supervisors of Protective Service Workers, All Other","career_pathway":["Security & Protective Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-2011.00","occupation_title":"Firefighters","career_pathway":["Emergency and Fire Management Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-2021.00","occupation_title":"Fire Inspectors and Investigators","career_pathway":["Emergency and Fire Management Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-2022.00","occupation_title":"Forest Fire Inspectors and Prevention Specialists","career_pathway":["Emergency and Fire Management Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-3011.00","occupation_title":"Bailiffs","career_pathway":["Security & Protective Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-3012.00","occupation_title":"Correctional Officers and Jailers","career_pathway":["Correction Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-3021.00","occupation_title":"Detectives and Criminal Investigators","career_pathway":["Law Enforcement Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-3021.02","occupation_title":"Police Identification and Records Officers","career_pathway":["Law Enforcement Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-3021.06","occupation_title":"Intelligence Analysts","career_pathway":["Law Enforcement Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-3031.00","occupation_title":"Fish and Game Wardens","career_pathway":["Law Enforcement Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-3041.00","occupation_title":"Parking Enforcement Workers","career_pathway":["Law Enforcement Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-3051.00","occupation_title":"Police and Sheriff's Patrol Officers","career_pathway":["Law Enforcement Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-3051.04","occupation_title":"Customs and Border Protection Officers","career_pathway":["Law Enforcement Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-3052.00","occupation_title":"Transit and Railroad Police","career_pathway":["Law Enforcement Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-9011.00","occupation_title":"Animal Control Workers","career_pathway":["Law Enforcement Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-9021.00","occupation_title":"Private Detectives and Investigators","career_pathway":["Law Enforcement Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-9031.00","occupation_title":"Gambling Surveillance Officers and Gambling Investigators","career_pathway":["Security & Protective Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-9032.00","occupation_title":"Security Guards","career_pathway":["Security & Protective Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-9091.00","occupation_title":"Crossing Guards and Flaggers","career_pathway":["Security & Protective Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-9092.00","occupation_title":"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","career_pathway":["Security & Protective Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-9093.00","occupation_title":"Transportation Security Screeners","career_pathway":["National Security"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"33-9094.00","occupation_title":"School Bus Monitors","career_pathway":["Security & Protective Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-9099.00","occupation_title":"Protective Service Workers, All Other","career_pathway":["Security & Protective Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"33-9099.02","occupation_title":"Retail Loss Prevention Specialists","career_pathway":["Security & Protective Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"35-1011.00","occupation_title":"Chefs and Head Cooks","career_pathway":["Restaurants and Food\/Beverage Services"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"35-1012.00","occupation_title":"First-Line Supervisors of Food Preparation and Serving Workers","career_pathway":["Restaurants and Food\/Beverage Services"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"35-2011.00","occupation_title":"Cooks, Fast Food","career_pathway":["Restaurants and Food\/Beverage Services"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"35-2012.00","occupation_title":"Cooks, Institution and Cafeteria","career_pathway":["Restaurants and Food\/Beverage Services"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"35-2013.00","occupation_title":"Cooks, Private Household","career_pathway":["Restaurants and Food\/Beverage Services"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"35-2014.00","occupation_title":"Cooks, Restaurant","career_pathway":["Restaurants and Food\/Beverage Services"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"35-2015.00","occupation_title":"Cooks, Short Order","career_pathway":["Restaurants and Food\/Beverage Services"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"35-2019.00","occupation_title":"Cooks, All Other","career_pathway":["Restaurants and Food\/Beverage Services"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"35-2021.00","occupation_title":"Food Preparation Workers","career_pathway":["Restaurants and Food\/Beverage Services"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"35-3011.00","occupation_title":"Bartenders","career_pathway":["Restaurants and Food\/Beverage Services"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"35-3023.00","occupation_title":"Fast Food and Counter Workers","career_pathway":["Restaurants and Food\/Beverage Services"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"35-3023.01","occupation_title":"Baristas","career_pathway":["Restaurants and Food\/Beverage Services"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"35-3031.00","occupation_title":"Waiters and Waitresses","career_pathway":["Restaurants and Food\/Beverage Services"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"35-3041.00","occupation_title":"Food Servers, Nonrestaurant","career_pathway":["Restaurants and Food\/Beverage Services"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"35-9011.00","occupation_title":"Dining Room and Cafeteria Attendants and Bartender Helpers","career_pathway":["Restaurants and Food\/Beverage Services"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"35-9021.00","occupation_title":"Dishwashers","career_pathway":["Restaurants and Food\/Beverage Services"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"35-9031.00","occupation_title":"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop","career_pathway":["Restaurants and Food\/Beverage Services"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"35-9099.00","occupation_title":"Food Preparation and Serving Related Workers, All Other","career_pathway":["Restaurants and Food\/Beverage Services"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"37-1011.00","occupation_title":"First-Line Supervisors of Housekeeping and Janitorial Workers","career_pathway":["Lodging"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"37-1012.00","occupation_title":"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","career_pathway":["Maintenance\/Operations"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"37-2011.00","occupation_title":"Janitors and Cleaners, Except Maids and Housekeeping Cleaners","career_pathway":["Lodging"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"37-2012.00","occupation_title":"Maids and Housekeeping Cleaners","career_pathway":["Lodging"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"37-2019.00","occupation_title":"Building Cleaning Workers, All Other","career_pathway":["Lodging"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"37-2021.00","occupation_title":"Pest Control Workers","career_pathway":["Environmental Service Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"37-3011.00","occupation_title":"Landscaping and Groundskeeping Workers","career_pathway":["Maintenance\/Operations"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"37-3012.00","occupation_title":"Pesticide Handlers, Sprayers, and Applicators, Vegetation","career_pathway":["Plant Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"37-3013.00","occupation_title":"Tree Trimmers and Pruners","career_pathway":["Plant Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"37-3019.00","occupation_title":"Grounds Maintenance Workers, All Other","career_pathway":["Maintenance\/Operations"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"39-1013.00","occupation_title":"First-Line Supervisors of Gambling Services Workers","career_pathway":["Recreation, Amusements & Attractions"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"39-1014.00","occupation_title":"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services","career_pathway":["Personal Care Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"39-1022.00","occupation_title":"First-Line Supervisors of Personal Service Workers","career_pathway":["Personal Care Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"39-2011.00","occupation_title":"Animal Trainers","career_pathway":["Recreation, Amusements & Attractions"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"39-2021.00","occupation_title":"Animal Caretakers","career_pathway":["Animal Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"39-3011.00","occupation_title":"Gambling Dealers","career_pathway":["Recreation, Amusements & Attractions"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"39-3012.00","occupation_title":"Gambling and Sports Book Writers and Runners","career_pathway":["Recreation, Amusements & Attractions"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"39-3019.00","occupation_title":"Gambling Service Workers, All Other","career_pathway":["Recreation, Amusements & Attractions"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"39-3021.00","occupation_title":"Motion Picture Projectionists","career_pathway":["Recreation, Amusements & Attractions"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"39-3031.00","occupation_title":"Ushers, Lobby Attendants, and Ticket Takers","career_pathway":["Recreation, Amusements & Attractions"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"39-3091.00","occupation_title":"Amusement and Recreation Attendants","career_pathway":["Recreation, Amusements & Attractions"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"39-3092.00","occupation_title":"Costume Attendants","career_pathway":["Performing Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"39-3093.00","occupation_title":"Locker Room, Coatroom, and Dressing Room Attendants","career_pathway":["Personal Care Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"39-3099.00","occupation_title":"Entertainment Attendants and Related Workers, All Other","career_pathway":["Recreation, Amusements & Attractions"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"39-4011.00","occupation_title":"Embalmers","career_pathway":["Personal Care Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"39-4012.00","occupation_title":"Crematory Operators","career_pathway":["Personal Care Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"39-4021.00","occupation_title":"Funeral Attendants","career_pathway":["Personal Care Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"39-4031.00","occupation_title":"Morticians, Undertakers, and Funeral Arrangers","career_pathway":["Personal Care Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"39-5011.00","occupation_title":"Barbers","career_pathway":["Personal Care Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"39-5012.00","occupation_title":"Hairdressers, Hairstylists, and Cosmetologists","career_pathway":["Personal Care Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"39-5091.00","occupation_title":"Makeup Artists, Theatrical and Performance","career_pathway":["Performing Arts"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"39-5092.00","occupation_title":"Manicurists and Pedicurists","career_pathway":["Personal Care Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"39-5093.00","occupation_title":"Shampooers","career_pathway":["Personal Care Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"39-5094.00","occupation_title":"Skincare Specialists","career_pathway":["Personal Care Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"39-6011.00","occupation_title":"Baggage Porters and Bellhops","career_pathway":["Lodging"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"39-6012.00","occupation_title":"Concierges","career_pathway":["Lodging"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"39-7011.00","occupation_title":"Tour Guides and Escorts","career_pathway":["Travel & Tourism"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"39-7012.00","occupation_title":"Travel Guides","career_pathway":["Travel & Tourism"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"39-9011.00","occupation_title":"Childcare Workers","career_pathway":["Early Childhood Development & Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"39-9011.01","occupation_title":"Nannies","career_pathway":["Early Childhood Development & Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"39-9031.00","occupation_title":"Exercise Trainers and Group Fitness Instructors","career_pathway":["Personal Care Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"39-9032.00","occupation_title":"Recreation Workers","career_pathway":["Recreation, Amusements & Attractions"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"39-9041.00","occupation_title":"Residential Advisors","career_pathway":["Personal Care Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"39-9099.00","occupation_title":"Personal Care and Service Workers, All Other","career_pathway":["Personal Care Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"41-1011.00","occupation_title":"First-Line Supervisors of Retail Sales Workers","career_pathway":["Professional Sales"],"career_cluster":["Marketing"]}
+{"occupation_code":"41-1012.00","occupation_title":"First-Line Supervisors of Non-Retail Sales Workers","career_pathway":["Professional Sales"],"career_cluster":["Marketing"]}
+{"occupation_code":"41-2011.00","occupation_title":"Cashiers","career_pathway":["Professional Sales"],"career_cluster":["Marketing"]}
+{"occupation_code":"41-2012.00","occupation_title":"Gambling Change Persons and Booth Cashiers","career_pathway":["Recreation, Amusements & Attractions"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"41-2021.00","occupation_title":"Counter and Rental Clerks","career_pathway":["Professional Sales"],"career_cluster":["Marketing"]}
+{"occupation_code":"41-2022.00","occupation_title":"Parts Salespersons","career_pathway":["Professional Sales"],"career_cluster":["Marketing"]}
+{"occupation_code":"41-2031.00","occupation_title":"Retail Salespersons","career_pathway":["Professional Sales"],"career_cluster":["Marketing"]}
+{"occupation_code":"41-3011.00","occupation_title":"Advertising Sales Agents","career_pathway":["Professional Sales"],"career_cluster":["Marketing"]}
+{"occupation_code":"41-3021.00","occupation_title":"Insurance Sales Agents","career_pathway":["Insurance"],"career_cluster":["Finance"]}
+{"occupation_code":"41-3031.00","occupation_title":"Securities, Commodities, and Financial Services Sales Agents","career_pathway":["Securities & Investments","Professional Sales"],"career_cluster":["Finance","Marketing"]}
+{"occupation_code":"41-3041.00","occupation_title":"Travel Agents","career_pathway":["Travel & Tourism"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"41-3091.00","occupation_title":"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel","career_pathway":["Professional Sales"],"career_cluster":["Marketing"]}
+{"occupation_code":"41-4011.00","occupation_title":"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","career_pathway":["Professional Sales"],"career_cluster":["Marketing"]}
+{"occupation_code":"41-4011.07","occupation_title":"Solar Sales Representatives and Assessors","career_pathway":["Professional Sales"],"career_cluster":["Marketing"]}
+{"occupation_code":"41-4012.00","occupation_title":"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products","career_pathway":["Professional Sales"],"career_cluster":["Marketing"]}
+{"occupation_code":"41-9011.00","occupation_title":"Demonstrators and Product Promoters","career_pathway":["Professional Sales"],"career_cluster":["Marketing"]}
+{"occupation_code":"41-9012.00","occupation_title":"Models","career_pathway":["Merchandising"],"career_cluster":["Marketing"]}
+{"occupation_code":"41-9021.00","occupation_title":"Real Estate Brokers","career_pathway":["Professional Sales"],"career_cluster":["Marketing"]}
+{"occupation_code":"41-9022.00","occupation_title":"Real Estate Sales Agents","career_pathway":["Professional Sales"],"career_cluster":["Marketing"]}
+{"occupation_code":"41-9031.00","occupation_title":"Sales Engineers","career_pathway":["Professional Sales"],"career_cluster":["Marketing"]}
+{"occupation_code":"41-9041.00","occupation_title":"Telemarketers","career_pathway":["Professional Sales"],"career_cluster":["Marketing"]}
+{"occupation_code":"41-9091.00","occupation_title":"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers","career_pathway":["Professional Sales"],"career_cluster":["Marketing"]}
+{"occupation_code":"41-9099.00","occupation_title":"Sales and Related Workers, All Other","career_pathway":["Professional Sales"],"career_cluster":["Marketing"]}
+{"occupation_code":"43-1011.00","occupation_title":"First-Line Supervisors of Office and Administrative Support Workers","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-2011.00","occupation_title":"Switchboard Operators, Including Answering Service","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-2021.00","occupation_title":"Telephone Operators","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-2099.00","occupation_title":"Communications Equipment Operators, All Other","career_pathway":["Journalism and Broadcasting","Administrative Support"],"career_cluster":["Arts, Audio\/Video Technology & Communications","Business Management & Administration"]}
+{"occupation_code":"43-3011.00","occupation_title":"Bill and Account Collectors","career_pathway":["Banking Services"],"career_cluster":["Finance"]}
+{"occupation_code":"43-3021.00","occupation_title":"Billing and Posting Clerks","career_pathway":["Sales and Service"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"43-3031.00","occupation_title":"Bookkeeping, Accounting, and Auditing Clerks","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-3041.00","occupation_title":"Gambling Cage Workers","career_pathway":["Recreation, Amusements & Attractions"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"43-3051.00","occupation_title":"Payroll and Timekeeping Clerks","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-3061.00","occupation_title":"Procurement Clerks","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-3071.00","occupation_title":"Tellers","career_pathway":["Banking Services"],"career_cluster":["Finance"]}
+{"occupation_code":"43-3099.00","occupation_title":"Financial Clerks, All Other","career_pathway":["Banking Services"],"career_cluster":["Finance"]}
+{"occupation_code":"43-4011.00","occupation_title":"Brokerage Clerks","career_pathway":["Securities & Investments"],"career_cluster":["Finance"]}
+{"occupation_code":"43-4021.00","occupation_title":"Correspondence Clerks","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-4031.00","occupation_title":"Court, Municipal, and License Clerks","career_pathway":["Public Management and Administration"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"43-4041.00","occupation_title":"Credit Authorizers, Checkers, and Clerks","career_pathway":["Banking Services"],"career_cluster":["Finance"]}
+{"occupation_code":"43-4051.00","occupation_title":"Customer Service Representatives","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-4061.00","occupation_title":"Eligibility Interviewers, Government Programs","career_pathway":["Public Management and Administration"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"43-4071.00","occupation_title":"File Clerks","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-4081.00","occupation_title":"Hotel, Motel, and Resort Desk Clerks","career_pathway":["Lodging"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"43-4111.00","occupation_title":"Interviewers, Except Eligibility and Loan","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-4121.00","occupation_title":"Library Assistants, Clerical","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-4131.00","occupation_title":"Loan Interviewers and Clerks","career_pathway":["Banking Services"],"career_cluster":["Finance"]}
+{"occupation_code":"43-4141.00","occupation_title":"New Accounts Clerks","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-4151.00","occupation_title":"Order Clerks","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-4161.00","occupation_title":"Human Resources Assistants, Except Payroll and Timekeeping","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-4171.00","occupation_title":"Receptionists and Information Clerks","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-4181.00","occupation_title":"Reservation and Transportation Ticket Agents and Travel Clerks","career_pathway":["Travel & Tourism"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"43-4199.00","occupation_title":"Information and Record Clerks, All Other","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-5011.00","occupation_title":"Cargo and Freight Agents","career_pathway":["Sales and Service"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"43-5011.01","occupation_title":"Freight Forwarders","career_pathway":["Sales and Service"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"43-5021.00","occupation_title":"Couriers and Messengers","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"43-5031.00","occupation_title":"Public Safety Telecommunicators","career_pathway":["Emergency and Fire Management Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"43-5032.00","occupation_title":"Dispatchers, Except Police, Fire, and Ambulance","career_pathway":["Logistics Planning and Management Services"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"43-5041.00","occupation_title":"Meter Readers, Utilities","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-5051.00","occupation_title":"Postal Service Clerks","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-5052.00","occupation_title":"Postal Service Mail Carriers","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-5053.00","occupation_title":"Postal Service Mail Sorters, Processors, and Processing Machine Operators","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-5061.00","occupation_title":"Production, Planning, and Expediting Clerks","career_pathway":["Quality Assurance"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"43-5071.00","occupation_title":"Shipping, Receiving, and Inventory Clerks","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-5111.00","occupation_title":"Weighers, Measurers, Checkers, and Samplers, Recordkeeping","career_pathway":["Quality Assurance"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"43-6011.00","occupation_title":"Executive Secretaries and Executive Administrative Assistants","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-6012.00","occupation_title":"Legal Secretaries and Administrative Assistants","career_pathway":["Legal Services"],"career_cluster":["Law, Public Safety, Corrections & Security"]}
+{"occupation_code":"43-6013.00","occupation_title":"Medical Secretaries and Administrative Assistants","career_pathway":["Health Informatics"],"career_cluster":["Health Science"]}
+{"occupation_code":"43-6014.00","occupation_title":"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-9021.00","occupation_title":"Data Entry Keyers","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-9022.00","occupation_title":"Word Processors and Typists","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-9031.00","occupation_title":"Desktop Publishers","career_pathway":["Printing Technology"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"43-9041.00","occupation_title":"Insurance Claims and Policy Processing Clerks","career_pathway":["Insurance"],"career_cluster":["Finance"]}
+{"occupation_code":"43-9051.00","occupation_title":"Mail Clerks and Mail Machine Operators, Except Postal Service","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-9061.00","occupation_title":"Office Clerks, General","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-9071.00","occupation_title":"Office Machine Operators, Except Computer","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"43-9081.00","occupation_title":"Proofreaders and Copy Markers","career_pathway":["Printing Technology"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"43-9111.00","occupation_title":"Statistical Assistants","career_pathway":["Planning"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"43-9199.00","occupation_title":"Office and Administrative Support Workers, All Other","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"45-1011.00","occupation_title":"First-Line Supervisors of Farming, Fishing, and Forestry Workers","career_pathway":["Food Products and Processing Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"45-2011.00","occupation_title":"Agricultural Inspectors","career_pathway":["Regulation"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"45-2021.00","occupation_title":"Animal Breeders","career_pathway":["Animal Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"45-2041.00","occupation_title":"Graders and Sorters, Agricultural Products","career_pathway":["Food Products and Processing Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"45-2091.00","occupation_title":"Agricultural Equipment Operators","career_pathway":["Power, Structural & Technical Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"45-2092.00","occupation_title":"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","career_pathway":["Plant Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"45-2093.00","occupation_title":"Farmworkers, Farm, Ranch, and Aquacultural Animals","career_pathway":["Animal Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"45-2099.00","occupation_title":"Agricultural Workers, All Other","career_pathway":["Plant Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"45-3031.00","occupation_title":"Fishing and Hunting Workers","career_pathway":["Natural Resources Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"45-4011.00","occupation_title":"Forest and Conservation Workers","career_pathway":["Natural Resources Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"45-4021.00","occupation_title":"Fallers","career_pathway":["Natural Resources Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"45-4022.00","occupation_title":"Logging Equipment Operators","career_pathway":["Natural Resources Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"45-4023.00","occupation_title":"Log Graders and Scalers","career_pathway":["Natural Resources Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"45-4029.00","occupation_title":"Logging Workers, All Other","career_pathway":["Natural Resources Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"47-1011.00","occupation_title":"First-Line Supervisors of Construction Trades and Extraction Workers","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-1011.03","occupation_title":"Solar Energy Installation Managers","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2011.00","occupation_title":"Boilermakers","career_pathway":["Maintenance\/Operations"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2021.00","occupation_title":"Brickmasons and Blockmasons","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2022.00","occupation_title":"Stonemasons","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2031.00","occupation_title":"Carpenters","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2041.00","occupation_title":"Carpet Installers","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2042.00","occupation_title":"Floor Layers, Except Carpet, Wood, and Hard Tiles","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2043.00","occupation_title":"Floor Sanders and Finishers","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2044.00","occupation_title":"Tile and Stone Setters","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2051.00","occupation_title":"Cement Masons and Concrete Finishers","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2053.00","occupation_title":"Terrazzo Workers and Finishers","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2061.00","occupation_title":"Construction Laborers","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2071.00","occupation_title":"Paving, Surfacing, and Tamping Equipment Operators","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2072.00","occupation_title":"Pile Driver Operators","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2073.00","occupation_title":"Operating Engineers and Other Construction Equipment Operators","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2081.00","occupation_title":"Drywall and Ceiling Tile Installers","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2082.00","occupation_title":"Tapers","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2111.00","occupation_title":"Electricians","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2121.00","occupation_title":"Glaziers","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2131.00","occupation_title":"Insulation Workers, Floor, Ceiling, and Wall","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2132.00","occupation_title":"Insulation Workers, Mechanical","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2141.00","occupation_title":"Painters, Construction and Maintenance","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2142.00","occupation_title":"Paperhangers","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2151.00","occupation_title":"Pipelayers","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2152.00","occupation_title":"Plumbers, Pipefitters, and Steamfitters","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2152.04","occupation_title":"Solar Thermal Installers and Technicians","career_pathway":["Maintenance\/Operations"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2161.00","occupation_title":"Plasterers and Stucco Masons","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2171.00","occupation_title":"Reinforcing Iron and Rebar Workers","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2181.00","occupation_title":"Roofers","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2211.00","occupation_title":"Sheet Metal Workers","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2221.00","occupation_title":"Structural Iron and Steel Workers","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-2231.00","occupation_title":"Solar Photovoltaic Installers","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-3011.00","occupation_title":"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-3012.00","occupation_title":"Helpers--Carpenters","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-3013.00","occupation_title":"Helpers--Electricians","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-3014.00","occupation_title":"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-3015.00","occupation_title":"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-3016.00","occupation_title":"Helpers--Roofers","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-3019.00","occupation_title":"Helpers, Construction Trades, All Other","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-4011.00","occupation_title":"Construction and Building Inspectors","career_pathway":["Regulation"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"47-4011.01","occupation_title":"Energy Auditors","career_pathway":["Operations Management"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"47-4021.00","occupation_title":"Elevator and Escalator Installers and Repairers","career_pathway":["Maintenance\/Operations"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-4031.00","occupation_title":"Fence Erectors","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-4041.00","occupation_title":"Hazardous Materials Removal Workers","career_pathway":["Environmental Service Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"47-4051.00","occupation_title":"Highway Maintenance Workers","career_pathway":["Maintenance\/Operations"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-4061.00","occupation_title":"Rail-Track Laying and Maintenance Equipment Operators","career_pathway":["Facility and Mobile Equipment Maintenance"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"47-4071.00","occupation_title":"Septic Tank Servicers and Sewer Pipe Cleaners","career_pathway":["Maintenance\/Operations"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-4091.00","occupation_title":"Segmental Pavers","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-4099.00","occupation_title":"Construction and Related Workers, All Other","career_pathway":["Maintenance\/Operations"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-4099.03","occupation_title":"Weatherization Installers and Technicians","career_pathway":["Maintenance\/Operations"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-5011.00","occupation_title":"Derrick Operators, Oil and Gas","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-5012.00","occupation_title":"Rotary Drill Operators, Oil and Gas","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-5013.00","occupation_title":"Service Unit Operators, Oil and Gas","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-5022.00","occupation_title":"Excavating and Loading Machine and Dragline Operators, Surface Mining","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-5023.00","occupation_title":"Earth Drillers, Except Oil and Gas","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-5032.00","occupation_title":"Explosives Workers, Ordnance Handling Experts, and Blasters","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-5041.00","occupation_title":"Continuous Mining Machine Operators","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-5043.00","occupation_title":"Roof Bolters, Mining","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-5044.00","occupation_title":"Loading and Moving Machine Operators, Underground Mining","career_pathway":["Construction","Transportation Operations"],"career_cluster":["Architecture & Construction","Transportation, Distribution & Logistics"]}
+{"occupation_code":"47-5049.00","occupation_title":"Underground Mining Machine Operators, All Other","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-5051.00","occupation_title":"Rock Splitters, Quarry","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-5071.00","occupation_title":"Roustabouts, Oil and Gas","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-5081.00","occupation_title":"Helpers--Extraction Workers","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"47-5099.00","occupation_title":"Extraction Workers, All Other","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"49-1011.00","occupation_title":"First-Line Supervisors of Mechanics, Installers, and Repairers","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"49-2011.00","occupation_title":"Computer, Automated Teller, and Office Machine Repairers","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"49-2021.00","occupation_title":"Radio, Cellular, and Tower Equipment Installers and Repairers","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"49-2022.00","occupation_title":"Telecommunications Equipment Installers and Repairers, Except Line Installers","career_pathway":["Telecommunications"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"49-2091.00","occupation_title":"Avionics Technicians","career_pathway":["Facility and Mobile Equipment Maintenance"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"49-2092.00","occupation_title":"Electric Motor, Power Tool, and Related Repairers","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"49-2093.00","occupation_title":"Electrical and Electronics Installers and Repairers, Transportation Equipment","career_pathway":["Facility and Mobile Equipment Maintenance"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"49-2094.00","occupation_title":"Electrical and Electronics Repairers, Commercial and Industrial Equipment","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"49-2095.00","occupation_title":"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"49-2096.00","occupation_title":"Electronic Equipment Installers and Repairers, Motor Vehicles","career_pathway":["Facility and Mobile Equipment Maintenance"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"49-2097.00","occupation_title":"Audiovisual Equipment Installers and Repairers","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"49-2098.00","occupation_title":"Security and Fire Alarm Systems Installers","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"49-3011.00","occupation_title":"Aircraft Mechanics and Service Technicians","career_pathway":["Facility and Mobile Equipment Maintenance"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"49-3021.00","occupation_title":"Automotive Body and Related Repairers","career_pathway":["Facility and Mobile Equipment Maintenance"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"49-3022.00","occupation_title":"Automotive Glass Installers and Repairers","career_pathway":["Facility and Mobile Equipment Maintenance"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"49-3023.00","occupation_title":"Automotive Service Technicians and Mechanics","career_pathway":["Facility and Mobile Equipment Maintenance"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"49-3031.00","occupation_title":"Bus and Truck Mechanics and Diesel Engine Specialists","career_pathway":["Facility and Mobile Equipment Maintenance"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"49-3041.00","occupation_title":"Farm Equipment Mechanics and Service Technicians","career_pathway":["Power, Structural & Technical Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"49-3042.00","occupation_title":"Mobile Heavy Equipment Mechanics, Except Engines","career_pathway":["Facility and Mobile Equipment Maintenance"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"49-3043.00","occupation_title":"Rail Car Repairers","career_pathway":["Facility and Mobile Equipment Maintenance"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"49-3051.00","occupation_title":"Motorboat Mechanics and Service Technicians","career_pathway":["Facility and Mobile Equipment Maintenance"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"49-3052.00","occupation_title":"Motorcycle Mechanics","career_pathway":["Facility and Mobile Equipment Maintenance"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"49-3053.00","occupation_title":"Outdoor Power Equipment and Other Small Engine Mechanics","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"49-3091.00","occupation_title":"Bicycle Repairers","career_pathway":["Facility and Mobile Equipment Maintenance"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"49-3092.00","occupation_title":"Recreational Vehicle Service Technicians","career_pathway":["Facility and Mobile Equipment Maintenance"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"49-3093.00","occupation_title":"Tire Repairers and Changers","career_pathway":["Facility and Mobile Equipment Maintenance"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"49-9011.00","occupation_title":"Mechanical Door Repairers","career_pathway":["Maintenance\/Operations"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"49-9012.00","occupation_title":"Control and Valve Installers and Repairers, Except Mechanical Door","career_pathway":["Maintenance\/Operations"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"49-9021.00","occupation_title":"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","career_pathway":["Maintenance\/Operations"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"49-9031.00","occupation_title":"Home Appliance Repairers","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"49-9041.00","occupation_title":"Industrial Machinery Mechanics","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"49-9043.00","occupation_title":"Maintenance Workers, Machinery","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"49-9044.00","occupation_title":"Millwrights","career_pathway":["Maintenance\/Operations"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"49-9045.00","occupation_title":"Refractory Materials Repairers, Except Brickmasons","career_pathway":["Maintenance\/Operations"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"49-9051.00","occupation_title":"Electrical Power-Line Installers and Repairers","career_pathway":["Maintenance\/Operations"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"49-9052.00","occupation_title":"Telecommunications Line Installers and Repairers","career_pathway":["Telecommunications"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"49-9061.00","occupation_title":"Camera and Photographic Equipment Repairers","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"49-9062.00","occupation_title":"Medical Equipment Repairers","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"49-9063.00","occupation_title":"Musical Instrument Repairers and Tuners","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"49-9064.00","occupation_title":"Watch and Clock Repairers","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"49-9069.00","occupation_title":"Precision Instrument and Equipment Repairers, All Other","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"49-9071.00","occupation_title":"Maintenance and Repair Workers, General","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"49-9081.00","occupation_title":"Wind Turbine Service Technicians","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"49-9091.00","occupation_title":"Coin, Vending, and Amusement Machine Servicers and Repairers","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"49-9092.00","occupation_title":"Commercial Divers","career_pathway":["Maintenance\/Operations"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"49-9094.00","occupation_title":"Locksmiths and Safe Repairers","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"49-9095.00","occupation_title":"Manufactured Building and Mobile Home Installers","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"49-9096.00","occupation_title":"Riggers","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"49-9097.00","occupation_title":"Signal and Track Switch Repairers","career_pathway":["Facility and Mobile Equipment Maintenance"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"49-9098.00","occupation_title":"Helpers--Installation, Maintenance, and Repair Workers","career_pathway":["Maintenance\/Operations"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"49-9099.00","occupation_title":"Installation, Maintenance, and Repair Workers, All Other","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"49-9099.01","occupation_title":"Geothermal Technicians","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-1011.00","occupation_title":"First-Line Supervisors of Production and Operating Workers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-2011.00","occupation_title":"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-2021.00","occupation_title":"Coil Winders, Tapers, and Finishers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-2022.00","occupation_title":"Electrical and Electronic Equipment Assemblers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-2023.00","occupation_title":"Electromechanical Equipment Assemblers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-2031.00","occupation_title":"Engine and Other Machine Assemblers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-2041.00","occupation_title":"Structural Metal Fabricators and Fitters","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"51-2051.00","occupation_title":"Fiberglass Laminators and Fabricators","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-2061.00","occupation_title":"Timing Device Assemblers and Adjusters","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-2092.00","occupation_title":"Team Assemblers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-2099.00","occupation_title":"Assemblers and Fabricators, All Other","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-3011.00","occupation_title":"Bakers","career_pathway":["Restaurants and Food\/Beverage Services"],"career_cluster":["Hospitality & Tourism"]}
+{"occupation_code":"51-3021.00","occupation_title":"Butchers and Meat Cutters","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-3022.00","occupation_title":"Meat, Poultry, and Fish Cutters and Trimmers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-3023.00","occupation_title":"Slaughterers and Meat Packers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-3091.00","occupation_title":"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-3092.00","occupation_title":"Food Batchmakers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-3093.00","occupation_title":"Food Cooking Machine Operators and Tenders","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-3099.00","occupation_title":"Food Processing Workers, All Other","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4021.00","occupation_title":"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4022.00","occupation_title":"Forging Machine Setters, Operators, and Tenders, Metal and Plastic","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4023.00","occupation_title":"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4031.00","occupation_title":"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4032.00","occupation_title":"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4033.00","occupation_title":"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4034.00","occupation_title":"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4035.00","occupation_title":"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4041.00","occupation_title":"Machinists","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4051.00","occupation_title":"Metal-Refining Furnace Operators and Tenders","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4052.00","occupation_title":"Pourers and Casters, Metal","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4061.00","occupation_title":"Model Makers, Metal and Plastic","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4062.00","occupation_title":"Patternmakers, Metal and Plastic","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4071.00","occupation_title":"Foundry Mold and Coremakers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4072.00","occupation_title":"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4081.00","occupation_title":"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4111.00","occupation_title":"Tool and Die Makers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4121.00","occupation_title":"Welders, Cutters, Solderers, and Brazers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4122.00","occupation_title":"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4191.00","occupation_title":"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4192.00","occupation_title":"Layout Workers, Metal and Plastic","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4193.00","occupation_title":"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4194.00","occupation_title":"Tool Grinders, Filers, and Sharpeners","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-4199.00","occupation_title":"Metal Workers and Plastic Workers, All Other","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-5111.00","occupation_title":"Prepress Technicians and Workers","career_pathway":["Printing Technology"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"51-5112.00","occupation_title":"Printing Press Operators","career_pathway":["Printing Technology"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"51-5113.00","occupation_title":"Print Binding and Finishing Workers","career_pathway":["Printing Technology"],"career_cluster":["Arts, Audio\/Video Technology & Communications"]}
+{"occupation_code":"51-6011.00","occupation_title":"Laundry and Dry-Cleaning Workers","career_pathway":["Personal Care Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"51-6021.00","occupation_title":"Pressers, Textile, Garment, and Related Materials","career_pathway":["Personal Care Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"51-6031.00","occupation_title":"Sewing Machine Operators","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-6041.00","occupation_title":"Shoe and Leather Workers and Repairers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-6042.00","occupation_title":"Shoe Machine Operators and Tenders","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-6051.00","occupation_title":"Sewers, Hand","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-6052.00","occupation_title":"Tailors, Dressmakers, and Custom Sewers","career_pathway":["Personal Care Services"],"career_cluster":["Human Services"]}
+{"occupation_code":"51-6061.00","occupation_title":"Textile Bleaching and Dyeing Machine Operators and Tenders","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-6062.00","occupation_title":"Textile Cutting Machine Setters, Operators, and Tenders","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-6063.00","occupation_title":"Textile Knitting and Weaving Machine Setters, Operators, and Tenders","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-6064.00","occupation_title":"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-6091.00","occupation_title":"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-6092.00","occupation_title":"Fabric and Apparel Patternmakers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-6093.00","occupation_title":"Upholsterers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-6099.00","occupation_title":"Textile, Apparel, and Furnishings Workers, All Other","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-7011.00","occupation_title":"Cabinetmakers and Bench Carpenters","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-7021.00","occupation_title":"Furniture Finishers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-7031.00","occupation_title":"Model Makers, Wood","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-7032.00","occupation_title":"Patternmakers, Wood","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-7041.00","occupation_title":"Sawing Machine Setters, Operators, and Tenders, Wood","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-7042.00","occupation_title":"Woodworking Machine Setters, Operators, and Tenders, Except Sawing","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-7099.00","occupation_title":"Woodworkers, All Other","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-8011.00","occupation_title":"Nuclear Power Reactor Operators","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-8012.00","occupation_title":"Power Distributors and Dispatchers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-8013.00","occupation_title":"Power Plant Operators","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-8013.03","occupation_title":"Biomass Plant Technicians","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-8013.04","occupation_title":"Hydroelectric Plant Technicians","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-8021.00","occupation_title":"Stationary Engineers and Boiler Operators","career_pathway":["Maintenance\/Operations"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"51-8031.00","occupation_title":"Water and Wastewater Treatment Plant and System Operators","career_pathway":["Environmental Service Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"51-8091.00","occupation_title":"Chemical Plant and System Operators","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-8092.00","occupation_title":"Gas Plant Operators","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-8093.00","occupation_title":"Petroleum Pump System Operators, Refinery Operators, and Gaugers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-8099.00","occupation_title":"Plant and System Operators, All Other","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-8099.01","occupation_title":"Biofuels Processing Technicians","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9011.00","occupation_title":"Chemical Equipment Operators and Tenders","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9012.00","occupation_title":"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9021.00","occupation_title":"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9022.00","occupation_title":"Grinding and Polishing Workers, Hand","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9023.00","occupation_title":"Mixing and Blending Machine Setters, Operators, and Tenders","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9031.00","occupation_title":"Cutters and Trimmers, Hand","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9032.00","occupation_title":"Cutting and Slicing Machine Setters, Operators, and Tenders","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9041.00","occupation_title":"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9051.00","occupation_title":"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9061.00","occupation_title":"Inspectors, Testers, Sorters, Samplers, and Weighers","career_pathway":["Quality Assurance"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9071.00","occupation_title":"Jewelers and Precious Stone and Metal Workers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9071.06","occupation_title":"Gem and Diamond Workers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9081.00","occupation_title":"Dental Laboratory Technicians","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9082.00","occupation_title":"Medical Appliance Technicians","career_pathway":["Maintenance, Installation & Repair"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9083.00","occupation_title":"Ophthalmic Laboratory Technicians","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9111.00","occupation_title":"Packaging and Filling Machine Operators and Tenders","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9123.00","occupation_title":"Painting, Coating, and Decorating Workers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9124.00","occupation_title":"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9141.00","occupation_title":"Semiconductor Processing Technicians","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9151.00","occupation_title":"Photographic Process Workers and Processing Machine Operators","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9161.00","occupation_title":"Computer Numerically Controlled Tool Operators","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9162.00","occupation_title":"Computer Numerically Controlled Tool Programmers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9191.00","occupation_title":"Adhesive Bonding Machine Operators and Tenders","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9192.00","occupation_title":"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9193.00","occupation_title":"Cooling and Freezing Equipment Operators and Tenders","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9194.00","occupation_title":"Etchers and Engravers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9195.00","occupation_title":"Molders, Shapers, and Casters, Except Metal and Plastic","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9195.03","occupation_title":"Stone Cutters and Carvers, Manufacturing","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9195.04","occupation_title":"Glass Blowers, Molders, Benders, and Finishers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9195.05","occupation_title":"Potters, Manufacturing","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9196.00","occupation_title":"Paper Goods Machine Setters, Operators, and Tenders","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9197.00","occupation_title":"Tire Builders","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9198.00","occupation_title":"Helpers--Production Workers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"51-9199.00","occupation_title":"Production Workers, All Other","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"53-1041.00","occupation_title":"Aircraft Cargo Handling Supervisors","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-1042.00","occupation_title":"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-1042.01","occupation_title":"Recycling Coordinators","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-1043.00","occupation_title":"First-Line Supervisors of Material-Moving Machine and Vehicle Operators","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-1044.00","occupation_title":"First-Line Supervisors of Passenger Attendants","career_pathway":["Personal Care Services","Transportation Operations"],"career_cluster":["Human Services","Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-1049.00","occupation_title":"First-Line Supervisors of Transportation Workers, All Other","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-2011.00","occupation_title":"Airline Pilots, Copilots, and Flight Engineers","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-2012.00","occupation_title":"Commercial Pilots","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-2021.00","occupation_title":"Air Traffic Controllers","career_pathway":["Transportation Systems\/Infrastructure Planning, Management and Regulation"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-2022.00","occupation_title":"Airfield Operations Specialists","career_pathway":["Transportation Systems\/Infrastructure Planning, Management and Regulation"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-2031.00","occupation_title":"Flight Attendants","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-3011.00","occupation_title":"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-3031.00","occupation_title":"Driver\/Sales Workers","career_pathway":["Professional Sales"],"career_cluster":["Marketing"]}
+{"occupation_code":"53-3032.00","occupation_title":"Heavy and Tractor-Trailer Truck Drivers","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-3033.00","occupation_title":"Light Truck Drivers","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-3051.00","occupation_title":"Bus Drivers, School","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-3052.00","occupation_title":"Bus Drivers, Transit and Intercity","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-3053.00","occupation_title":"Shuttle Drivers and Chauffeurs","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-3054.00","occupation_title":"Taxi Drivers","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-3099.00","occupation_title":"Motor Vehicle Operators, All Other","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-4011.00","occupation_title":"Locomotive Engineers","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-4013.00","occupation_title":"Rail Yard Engineers, Dinkey Operators, and Hostlers","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-4022.00","occupation_title":"Railroad Brake, Signal, and Switch Operators and Locomotive Firers","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-4031.00","occupation_title":"Railroad Conductors and Yardmasters","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-4041.00","occupation_title":"Subway and Streetcar Operators","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-4099.00","occupation_title":"Rail Transportation Workers, All Other","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-5011.00","occupation_title":"Sailors and Marine Oilers","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-5021.00","occupation_title":"Captains, Mates, and Pilots of Water Vessels","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-5022.00","occupation_title":"Motorboat Operators","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-5031.00","occupation_title":"Ship Engineers","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-6011.00","occupation_title":"Bridge and Lock Tenders","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-6021.00","occupation_title":"Parking Attendants","career_pathway":["Sales and Service"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-6031.00","occupation_title":"Automotive and Watercraft Service Attendants","career_pathway":["Facility and Mobile Equipment Maintenance"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-6032.00","occupation_title":"Aircraft Service Attendants","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-6041.00","occupation_title":"Traffic Technicians","career_pathway":["Transportation Systems\/Infrastructure Planning, Management and Regulation"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-6051.00","occupation_title":"Transportation Inspectors","career_pathway":["Governance"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"53-6051.01","occupation_title":"Aviation Inspectors","career_pathway":["Governance"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"53-6051.07","occupation_title":"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","career_pathway":["Governance"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"53-6061.00","occupation_title":"Passenger Attendants","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-6099.00","occupation_title":"Transportation Workers, All Other","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-7011.00","occupation_title":"Conveyor Operators and Tenders","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"53-7021.00","occupation_title":"Crane and Tower Operators","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"53-7031.00","occupation_title":"Dredge Operators","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"53-7041.00","occupation_title":"Hoist and Winch Operators","career_pathway":["Construction"],"career_cluster":["Architecture & Construction"]}
+{"occupation_code":"53-7051.00","occupation_title":"Industrial Truck and Tractor Operators","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-7061.00","occupation_title":"Cleaners of Vehicles and Equipment","career_pathway":["Facility and Mobile Equipment Maintenance"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-7062.00","occupation_title":"Laborers and Freight, Stock, and Material Movers, Hand","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-7062.04","occupation_title":"Recycling and Reclamation Workers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"53-7063.00","occupation_title":"Machine Feeders and Offbearers","career_pathway":["Production"],"career_cluster":["Manufacturing"]}
+{"occupation_code":"53-7064.00","occupation_title":"Packers and Packagers, Hand","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-7065.00","occupation_title":"Stockers and Order Fillers","career_pathway":["Administrative Support"],"career_cluster":["Business Management & Administration"]}
+{"occupation_code":"53-7071.00","occupation_title":"Gas Compressor and Gas Pumping Station Operators","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-7072.00","occupation_title":"Pump Operators, Except Wellhead Pumpers","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-7073.00","occupation_title":"Wellhead Pumpers","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-7081.00","occupation_title":"Refuse and Recyclable Material Collectors","career_pathway":["Environmental Service Systems"],"career_cluster":["Agriculture, Food & Natural Resources"]}
+{"occupation_code":"53-7121.00","occupation_title":"Tank Car, Truck, and Ship Loaders","career_pathway":["Transportation Operations"],"career_cluster":["Transportation, Distribution & Logistics"]}
+{"occupation_code":"53-7199.00","occupation_title":"Material Moving Workers, All Other","career_pathway":["Construction","Transportation Operations"],"career_cluster":["Architecture & Construction","Transportation, Distribution & Logistics"]}
+{"occupation_code":"55-1011.00","occupation_title":"Air Crew Officers","career_pathway":["National Security"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"55-1012.00","occupation_title":"Aircraft Launch and Recovery Officers","career_pathway":["National Security"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"55-1013.00","occupation_title":"Armored Assault Vehicle Officers","career_pathway":["National Security"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"55-1014.00","occupation_title":"Artillery and Missile Officers","career_pathway":["National Security"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"55-1015.00","occupation_title":"Command and Control Center Officers","career_pathway":["National Security"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"55-1016.00","occupation_title":"Infantry Officers","career_pathway":["National Security"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"55-1017.00","occupation_title":"Special Forces Officers","career_pathway":["National Security"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"55-1019.00","occupation_title":"Military Officer Special and Tactical Operations Leaders, All Other","career_pathway":["National Security"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"55-2011.00","occupation_title":"First-Line Supervisors of Air Crew Members","career_pathway":["National Security"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"55-2012.00","occupation_title":"First-Line Supervisors of Weapons Specialists\/Crew Members","career_pathway":["National Security"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"55-2013.00","occupation_title":"First-Line Supervisors of All Other Tactical Operations Specialists","career_pathway":["National Security"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"55-3011.00","occupation_title":"Air Crew Members","career_pathway":["National Security"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"55-3012.00","occupation_title":"Aircraft Launch and Recovery Specialists","career_pathway":["National Security"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"55-3013.00","occupation_title":"Armored Assault Vehicle Crew Members","career_pathway":["National Security"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"55-3014.00","occupation_title":"Artillery and Missile Crew Members","career_pathway":["National Security"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"55-3015.00","occupation_title":"Command and Control Center Specialists","career_pathway":["National Security"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"55-3016.00","occupation_title":"Infantry","career_pathway":["National Security"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"55-3018.00","occupation_title":"Special Forces","career_pathway":["National Security"],"career_cluster":["Government & Public Administration"]}
+{"occupation_code":"55-3019.00","occupation_title":"Military Enlisted Tactical Operations and Air\/Weapons Specialists and Crew Members, All Other","career_pathway":["National Security"],"career_cluster":["Government & Public Administration"]}
