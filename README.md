@@ -43,7 +43,9 @@ Scripts used to prepare and upload O\*NET 28.3 data to an OpenAI Vector Store an
 
 -   `app.py` - Streamlit app to run the Job Classification Assistant
 
-The streamlit app will
+The streamlit app will let users input a job post title & description and will classify that job post into an O*NET occupation.  
+
+The assistant can optionally provide an explanation for the classification decision.
 
 command:
 `streamlit run appy.py`
