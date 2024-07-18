@@ -3,7 +3,6 @@ import pandas as pd
 import os
 import json
 import time
-import copy
 
 from typing import List, Optional
 
@@ -110,37 +109,11 @@ def parse_output(output: OpenAIAssistantFinish) -> JobClassifications:
    output_obj = json.loads(output_text)
    return JobClassifications(**output_obj)
 
-if "agent" not in st.session_state:
-   agent = OpenAIAssistantV2Runnable(assistant_id=st.session_state.ASSISTANT_ID, as_agent=True)
-   st.session_state['agent'] = agent
-   st.session_state['chain'] = (agent | parse_output)
-
-def get_career_clusters(occupation_code: str) -> List[str]:
-   '''Get Career Clusters for a given occupation code'''
-   
-   if "career_clusters" not in st.session_state:
-      return []
-   
-   df = st.session_state["career_clusters"]
-   values = df[df['occupation_code'] == occupation_code]['career_cluster'].to_list()
-   return values[0] if len(values) > 0 else []
-
-def get_career_pathways(occupation_code: str) -> List[str]:
-   '''Get Career Pathways for a given occupation code'''
-   
-   if "career_clusters" not in st.session_state:
-      return []
-   
-   df = st.session_state["career_clusters"]
-
-   values = df[df['occupation_code'] == occupation_code]['career_pathway'].to_list()
-   return values[0] if len(values) > 0 else []
-
 # check that the occupation code exists in the knowledge base
 def get_occupation_by_code(occupation_code: str) -> Optional[dict]:
    '''Verify that occupation code exists in knowledge base'''
    if "occupations" not in st.session_state:
-      return False
+      return None
 
    df = st.session_state["occupations"]
    values = df[df['occupation_code'] == occupation_code].to_dict(orient='records')
@@ -150,7 +123,7 @@ def get_occupation_by_code(occupation_code: str) -> Optional[dict]:
 def get_occupation_by_title(occupation_title: str) -> Optional[dict]:
    '''Verify that occupation title exists in knowledge base'''
    if "occupations" not in st.session_state:
-      return False
+      return None
 
    df = st.session_state["occupations"]
    values = df[df['occupation_title'] == occupation_title].to_dict(orient='records')
@@ -168,6 +141,7 @@ def validate_occupation_code(occupation_code: str, occupation_title: str) -> boo
 
 def post_process_classification(input: JobClassification) -> Optional[JobClassification]:
 
+   # if the occupation code and title are valid & match, return the classification unchanged
    if validate_occupation_code(input.occupation_code, input.occupation_title):
       return input
 
@@ -190,8 +164,7 @@ def post_process_classification(input: JobClassification) -> Optional[JobClassif
    # else, do not include the occupation
    return None
 
-
-def post_process_results(input: JobClassifications) -> JobClassifications:
+def post_process(input: JobClassifications) -> JobClassifications:
    "post-process the job classifications to fix occupation title and code mismatches"
 
    _classifications = [post_process_classification(c) for c in input.job_classifications]
@@ -202,16 +175,43 @@ def post_process_results(input: JobClassifications) -> JobClassifications:
 
    return output
 
-def display_results(job_classifications: JobClassifications):
-   
-   st.write("**Overall Explanation**")
-   st.write(job_classifications.overall_explanation)
+if "agent" not in st.session_state:
+   agent = OpenAIAssistantV2Runnable(assistant_id=st.session_state.ASSISTANT_ID, as_agent=True)
+   st.session_state['agent'] = agent
+   st.session_state['chain'] = (agent | parse_output | post_process )
 
-   if not job_classifications.job_classifications:
+def get_career_clusters(occupation_code: str) -> List[str]:
+   '''Get Career Clusters for a given occupation code'''
+   
+   if "career_clusters" not in st.session_state:
+      return []
+   
+   df = st.session_state["career_clusters"]
+   values = df[df['occupation_code'] == occupation_code]['career_cluster'].to_list()
+   return values[0] if len(values) > 0 else []
+
+def get_career_pathways(occupation_code: str) -> List[str]:
+   '''Get Career Pathways for a given occupation code'''
+   
+   if "career_clusters" not in st.session_state:
+      return []
+   
+   df = st.session_state["career_clusters"]
+
+   values = df[df['occupation_code'] == occupation_code]['career_pathway'].to_list()
+   return values[0] if len(values) > 0 else []
+
+def display_results(results: JobClassifications):
+   '''Display the results of the job classification from the Assistant'''
+
+   st.write("**Overall Explanation**")
+   st.write(results.overall_explanation)
+
+   if not results.job_classifications:
       st.write("No classifications found for the job post.")
       return
 
-   for job_classification in job_classifications.job_classifications:
+   for job_classification in results.job_classifications:
 
       if not validate_occupation_code(job_classification.occupation_code, job_classification.occupation_title):
          st.error(f"Invalid occupation code: {job_classification.occupation_code} for occupation title: {job_classification.occupation_title}")
@@ -257,13 +257,8 @@ with st.form("job_post"):
       try:
          start_time = time.time()
          with st.spinner('Classifying...'):
-            results = chain.invoke(input)
-            
-            if results:
-               processed_results = post_process_results(results)
-               display_results(processed_results)
-            else:
-               st.info("No results returned from the assistant")
+            results = chain.invoke(input)            
+            display_results(results)
       
       except ValidationError as e:
          st.error(f"Validation Error: {e}\n\n{e.errors()}")
