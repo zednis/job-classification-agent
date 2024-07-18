@@ -3,10 +3,9 @@ import pandas as pd
 import os
 import json
 import time
+import copy
 
 from typing import List, Optional
-
-from dotenv import load_dotenv
 
 from langchain_core.pydantic_v1 import BaseModel, Field, ValidationError
 
@@ -17,16 +16,37 @@ from langchain.output_parsers import PydanticOutputParser
 
 st.set_page_config(layout="wide", page_title="Job Classification Assistant")
 
-if "init" not in st.session_state:
-   'Initialize the session state with environment variables'
+HINTS_PLACEHOLDER = """Did the assistant get something wrong?  Add additional hints here and try again!
 
-   load_dotenv()
+example: Jobs that mention software development in a specific language (e.g. JavaScript, Java, C/C#, C++, Python, PHP) should include a classification into the 'Software Developers' occupation.
+"""
+
+DEFAULT_PROMPT_TEMPLATE = """Classify the following job post into one or more O*NET 28 classifications described in the provided knowledge base.
+You can only include a classification if the job post strongly suggests that the occupation is part of that classification.
+Don't include source references.
+Consider the career pathway and clusters associated with the occupation in the knowledge base when making classification decisions.
+Consider sample and alternate job titles associated with occupations in the knowledge base when making classification decisions.
+Prioritize technical/hard skill matches over soft skill matches.  
+Do not makeup O*NET occupations not described in the provided knowledge base.
+If there are no clear O*NET 28 classifications, please indicate that in the overall_explanation.
+
+Format instructions: {format_instructions}
+
+Agent should include explanations: {include_explanation}
+
+Additional hints: {hints}
+
+job post title: {job_post_title}
+job post description: {job_post_description}
+"""
+
+if "init" not in st.session_state:
+   # Initialize the session state with environment variables
 
    assert(os.environ.get("ASSISTANT_ID") is not None), "ASSISTANT_ID environment variable is not set.  Please run create_assistant.py to create an assistant."
    assert(os.environ.get("OPENAI_API_KEY") is not None), "OPENAI_API_KEY environment variable is not set.  Please set the OPEN_API_KEY environment variable."
 
    st.session_state['ASSISTANT_ID'] = os.environ.get("ASSISTANT_ID")
-   st.session_state['DEFAULT_PROMPT_TEMPLATE'] = os.environ.get("DEFAULT_PROMPT_TEMPLATE")
    
    st.session_state['init'] = True
 
@@ -36,8 +56,12 @@ st.sidebar.checkbox("Include Explanation?", True, key="include_explanation")
   
 if "career_clusters" not in st.session_state: 
    # Load the career clusters from data/occupation_career_clusters.json into a DataFrame
-  career_clusters = pd.read_json("data/processed/occupation_career_clusters.json", orient="records", lines=True)
-  st.session_state["career_clusters"] = career_clusters
+  df_career_clusters = pd.read_json("data/processed/occupation_career_clusters.json", orient="records", lines=True)
+  st.session_state["career_clusters"] = df_career_clusters
+
+if "occupations" not in st.session_state:
+   df_occupations = pd.read_json("data/processed/occupation_descriptions.json", orient="records", lines=True)
+   st.session_state['occupations'] = df_occupations
 
 with st.expander("Prompt Config"):
 
@@ -49,9 +73,9 @@ with st.expander("Prompt Config"):
    - {hints}: additional hints for the assistant
 """
 
-   st.text_area("Prompt Template", key="prompt_template", value=st.session_state.DEFAULT_PROMPT_TEMPLATE, height=320, help=help_text)
+   st.text_area("Prompt Template", key="prompt_template", value=DEFAULT_PROMPT_TEMPLATE, height=320, help=help_text)
 
-   st.text_area("Hints", key="hints", placeholder="Did the assistant get something wrong?  Add additional hints here and try again!")
+   st.text_area("Hints", key="hints", placeholder=HINTS_PLACEHOLDER)
 
 class JobClassification (BaseModel):
    occupation_code: str = Field(description="O*NET 28 occupation code", pattern=r'(\d{2}-\d{4}\.\d{2})', examples=["15-2051.00"])
@@ -69,7 +93,7 @@ class JobClassifications(BaseModel):
 
 parser = PydanticOutputParser(pydantic_object=JobClassifications)
 
-prompt_template = st.session_state.get("prompt_template", st.session_state.DEFAULT_PROMPT_TEMPLATE)
+prompt_template = st.session_state.get("prompt_template", DEFAULT_PROMPT_TEMPLATE)
 
 prompt = ChatPromptTemplate.from_template(
    prompt_template, 
@@ -112,13 +136,86 @@ def get_career_pathways(occupation_code: str) -> List[str]:
    values = df[df['occupation_code'] == occupation_code]['career_pathway'].to_list()
    return values[0] if len(values) > 0 else []
 
-def display_job_classifications(job_classifications: JobClassifications):
+# check that the occupation code exists in the knowledge base
+def get_occupation_by_code(occupation_code: str) -> Optional[dict]:
+   '''Verify that occupation code exists in knowledge base'''
+   if "occupations" not in st.session_state:
+      return False
+
+   df = st.session_state["occupations"]
+   values = df[df['occupation_code'] == occupation_code].to_dict(orient='records')
+   return values[0] if len(values) > 0 else None
+
+# check that the occupation title exists in the knowledge base
+def get_occupation_by_title(occupation_title: str) -> Optional[dict]:
+   '''Verify that occupation title exists in knowledge base'''
+   if "occupations" not in st.session_state:
+      return False
+
+   df = st.session_state["occupations"]
+   values = df[df['occupation_title'] == occupation_title].to_dict(orient='records')
+   return values[0] if len(values) > 0 else None
+
+# Verify that occupation code is valid for occupation title
+def validate_occupation_code(occupation_code: str, occupation_title: str) -> bool:
+   '''Verify that occupation code is valid for occupation title'''
+   if "occupations" not in st.session_state:
+      return False
+
+   df = st.session_state["occupations"]
+   values = df[df['occupation_code'] == occupation_code]['occupation_title'].to_list()
+   return values[0] == occupation_title if values else False
+
+def post_process_classification(input: JobClassification) -> Optional[JobClassification]:
+
+   if validate_occupation_code(input.occupation_code, input.occupation_title):
+      return input
+
+   # if the occupation name exists in KB, return occupation with that name
+   occ = get_occupation_by_title(input.occupation_title)
+   if occ:
+      classification = JobClassification(occupation_code=occ['occupation_code'], 
+                                         occupation_title=occ['occupation_title'], 
+                                         explanation=input.explanation)
+      return classification
+
+   # else, check if the occupation code exists in KB, return occupation with that code
+   occ = get_occupation_by_code(input.occupation_code)
+   if occ:
+      classification = JobClassification(occupation_code=occ['occupation_code'], 
+                                         occupation_title=occ['occupation_title'], 
+                                         explanation=input.explanation)
+      return classification
+
+   # else, do not include the occupation
+   return None
+
+
+def post_process_results(input: JobClassifications) -> JobClassifications:
+   "post-process the job classifications to fix occupation title and code mismatches"
+
+   _classifications = [post_process_classification(c) for c in input.job_classifications]
+   _classifications = [c for c in _classifications if c is not None]
+
+   output = JobClassifications(job_classifications=_classifications, 
+                               overall_explanation=input.overall_explanation)
+
+   return output
+
+def display_results(job_classifications: JobClassifications):
    
+   st.write("**Overall Explanation**")
+   st.write(job_classifications.overall_explanation)
+
    if not job_classifications.job_classifications:
       st.write("No classifications found for the job post.")
       return
 
    for job_classification in job_classifications.job_classifications:
+
+      if not validate_occupation_code(job_classification.occupation_code, job_classification.occupation_title):
+         st.error(f"Invalid occupation code: {job_classification.occupation_code} for occupation title: {job_classification.occupation_title}")
+         continue
 
       career_clusters = get_career_clusters(job_classification.occupation_code)
       career_pathways = get_career_pathways(job_classification.occupation_code)
@@ -163,7 +260,8 @@ with st.form("job_post"):
             results = chain.invoke(input)
             
             if results:
-               display_job_classifications(results)
+               processed_results = post_process_results(results)
+               display_results(processed_results)
             else:
                st.info("No results returned from the assistant")
       
